@@ -1,0 +1,11721 @@
+.
+-----------------------------
+Cache Settings
+C: 0
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 298586
+Writes: 205389
+Write misses: 188426
+Misses: 487012
+Writebacks: 204786
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.959741
+Average access time (AAT): 97.974113
+-----------------------------
+Cache Settings
+C: 1
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 297147
+Writes: 205389
+Write misses: 188253
+Misses: 485400
+Writebacks: 204607
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.956564
+Average access time (AAT): 97.656441
+-----------------------------
+Cache Settings
+C: 1
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 297932
+Writes: 205389
+Write misses: 188200
+Misses: 486132
+Writebacks: 204454
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.958007
+Average access time (AAT): 97.800694
+-----------------------------
+Cache Settings
+C: 2
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 294955
+Writes: 205389
+Write misses: 187938
+Misses: 482893
+Writebacks: 204466
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.951624
+Average access time (AAT): 97.162393
+-----------------------------
+Cache Settings
+C: 2
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 296469
+Writes: 205389
+Write misses: 187980
+Misses: 484449
+Writebacks: 204227
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.954690
+Average access time (AAT): 97.469030
+-----------------------------
+Cache Settings
+C: 2
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 296542
+Writes: 205389
+Write misses: 187392
+Misses: 483934
+Writebacks: 203051
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.953675
+Average access time (AAT): 97.367540
+-----------------------------
+Cache Settings
+C: 3
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 287576
+Writes: 205389
+Write misses: 185832
+Misses: 473408
+Writebacks: 202927
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.932932
+Average access time (AAT): 95.293210
+-----------------------------
+Cache Settings
+C: 3
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 294199
+Writes: 205389
+Write misses: 187621
+Misses: 481820
+Writebacks: 204031
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.949509
+Average access time (AAT): 96.950940
+-----------------------------
+Cache Settings
+C: 3
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 292718
+Writes: 205389
+Write misses: 187866
+Misses: 480584
+Writebacks: 200569
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.947074
+Average access time (AAT): 96.707365
+-----------------------------
+Cache Settings
+C: 3
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 291217
+Writes: 205389
+Write misses: 186437
+Misses: 477654
+Writebacks: 199326
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.941300
+Average access time (AAT): 96.129958
+-----------------------------
+Cache Settings
+C: 4
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 277127
+Writes: 205389
+Write misses: 178972
+Misses: 456099
+Writebacks: 200598
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.898822
+Average access time (AAT): 91.882173
+-----------------------------
+Cache Settings
+C: 4
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 286306
+Writes: 205389
+Write misses: 185297
+Misses: 471603
+Writebacks: 202382
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.929375
+Average access time (AAT): 94.937504
+-----------------------------
+Cache Settings
+C: 4
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 289113
+Writes: 205389
+Write misses: 186854
+Misses: 475967
+Writebacks: 200370
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.937975
+Average access time (AAT): 95.797506
+-----------------------------
+Cache Settings
+C: 4
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 289491
+Writes: 205389
+Write misses: 186059
+Misses: 475550
+Writebacks: 198934
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.937153
+Average access time (AAT): 95.715328
+-----------------------------
+Cache Settings
+C: 4
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 287766
+Writes: 205389
+Write misses: 182896
+Misses: 470662
+Writebacks: 195498
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.927521
+Average access time (AAT): 94.752064
+-----------------------------
+Cache Settings
+C: 5
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 261370
+Writes: 205389
+Write misses: 164780
+Misses: 426150
+Writebacks: 196574
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.839802
+Average access time (AAT): 85.980207
+-----------------------------
+Cache Settings
+C: 5
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 272201
+Writes: 205389
+Write misses: 177303
+Misses: 449504
+Writebacks: 195814
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.885825
+Average access time (AAT): 90.582515
+-----------------------------
+Cache Settings
+C: 5
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 281064
+Writes: 205389
+Write misses: 184623
+Misses: 465687
+Writebacks: 198621
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.917717
+Average access time (AAT): 93.771654
+-----------------------------
+Cache Settings
+C: 5
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 286450
+Writes: 205389
+Write misses: 185853
+Misses: 472303
+Writebacks: 198865
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.930755
+Average access time (AAT): 95.075451
+-----------------------------
+Cache Settings
+C: 5
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 284573
+Writes: 205389
+Write misses: 180785
+Misses: 465358
+Writebacks: 193201
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.917068
+Average access time (AAT): 93.706819
+-----------------------------
+Cache Settings
+C: 5
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 272947
+Writes: 205389
+Write misses: 171364
+Misses: 444311
+Writebacks: 183676
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.875591
+Average access time (AAT): 89.559145
+-----------------------------
+Cache Settings
+C: 6
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 235519
+Writes: 205389
+Write misses: 145816
+Misses: 381335
+Writebacks: 187154
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.751486
+Average access time (AAT): 77.148638
+-----------------------------
+Cache Settings
+C: 6
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 257011
+Writes: 205389
+Write misses: 162056
+Misses: 419067
+Writebacks: 193038
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.825844
+Average access time (AAT): 84.584379
+-----------------------------
+Cache Settings
+C: 6
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 267079
+Writes: 205389
+Write misses: 173203
+Misses: 440282
+Writebacks: 190513
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.867652
+Average access time (AAT): 88.765161
+-----------------------------
+Cache Settings
+C: 6
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 278458
+Writes: 205389
+Write misses: 183213
+Misses: 461671
+Writebacks: 196668
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.909802
+Average access time (AAT): 92.980232
+-----------------------------
+Cache Settings
+C: 6
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 281159
+Writes: 205389
+Write misses: 179866
+Misses: 461025
+Writebacks: 192597
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.908529
+Average access time (AAT): 92.852927
+-----------------------------
+Cache Settings
+C: 6
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 271255
+Writes: 205389
+Write misses: 170442
+Misses: 441697
+Writebacks: 182615
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.870440
+Average access time (AAT): 89.044011
+-----------------------------
+Cache Settings
+C: 6
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 261374
+Writes: 205389
+Write misses: 160628
+Misses: 422002
+Writebacks: 172396
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.831628
+Average access time (AAT): 85.162772
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 203034
+Writes: 205389
+Write misses: 128649
+Misses: 331683
+Writebacks: 173940
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.653639
+Average access time (AAT): 67.363855
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 224596
+Writes: 205389
+Write misses: 141848
+Misses: 366444
+Writebacks: 177455
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.722141
+Average access time (AAT): 74.214110
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 249616
+Writes: 205389
+Write misses: 156431
+Misses: 406047
+Writebacks: 185836
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.800186
+Average access time (AAT): 82.018564
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 261033
+Writes: 205389
+Write misses: 168197
+Misses: 429230
+Writebacks: 184687
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.845872
+Average access time (AAT): 86.587174
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 270925
+Writes: 205389
+Write misses: 175947
+Misses: 446872
+Writebacks: 188813
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.880638
+Average access time (AAT): 90.063834
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 268111
+Writes: 205389
+Write misses: 170365
+Misses: 438476
+Writebacks: 182667
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.864093
+Average access time (AAT): 88.409257
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 258032
+Writes: 205389
+Write misses: 159110
+Misses: 417142
+Writebacks: 170555
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.822050
+Average access time (AAT): 84.205025
+-----------------------------
+Cache Settings
+C: 7
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 218452
+Writes: 205389
+Write misses: 136457
+Misses: 354909
+Writebacks: 148581
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.699409
+Average access time (AAT): 71.940939
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 164799
+Writes: 205389
+Write misses: 108977
+Misses: 273776
+Writebacks: 149645
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.539523
+Average access time (AAT): 55.952282
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 189169
+Writes: 205389
+Write misses: 120459
+Misses: 309628
+Writebacks: 158393
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.610175
+Average access time (AAT): 63.017537
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 212363
+Writes: 205389
+Write misses: 131606
+Misses: 343969
+Writebacks: 164054
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.677850
+Average access time (AAT): 69.785023
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 234058
+Writes: 205389
+Write misses: 146838
+Misses: 380896
+Writebacks: 170820
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.750621
+Average access time (AAT): 77.062125
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 246425
+Writes: 205389
+Write misses: 158098
+Misses: 404523
+Writebacks: 174015
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.797182
+Average access time (AAT): 81.718233
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 254206
+Writes: 205389
+Write misses: 164241
+Misses: 418447
+Writebacks: 175846
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.824622
+Average access time (AAT): 84.462198
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 251302
+Writes: 205389
+Write misses: 156466
+Misses: 407768
+Writebacks: 168083
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.803577
+Average access time (AAT): 82.357716
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 212530
+Writes: 205389
+Write misses: 131978
+Misses: 344508
+Writebacks: 143598
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.678912
+Average access time (AAT): 69.891243
+-----------------------------
+Cache Settings
+C: 8
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 176948
+Writes: 205389
+Write misses: 106332
+Misses: 283280
+Writebacks: 115883
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.558252
+Average access time (AAT): 57.825209
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 132672
+Writes: 205389
+Write misses: 89850
+Misses: 222522
+Writebacks: 123899
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.438518
+Average access time (AAT): 45.851798
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 150419
+Writes: 205389
+Write misses: 95645
+Misses: 246064
+Writebacks: 130368
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.484912
+Average access time (AAT): 50.491155
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 167034
+Writes: 205389
+Write misses: 103659
+Misses: 270693
+Writebacks: 136305
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.533447
+Average access time (AAT): 55.344724
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 191021
+Writes: 205389
+Write misses: 116071
+Misses: 307092
+Writebacks: 145745
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.605178
+Average access time (AAT): 62.517774
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 213576
+Writes: 205389
+Write misses: 134582
+Misses: 348158
+Writebacks: 154923
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.686105
+Average access time (AAT): 70.610538
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 228036
+Writes: 205389
+Write misses: 144170
+Misses: 372206
+Writebacks: 157788
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.733496
+Average access time (AAT): 75.349611
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 236786
+Writes: 205389
+Write misses: 150284
+Misses: 387070
+Writebacks: 160589
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.762788
+Average access time (AAT): 78.278819
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 203063
+Writes: 205389
+Write misses: 127616
+Misses: 330679
+Writebacks: 139049
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.651660
+Average access time (AAT): 67.166000
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 168821
+Writes: 205389
+Write misses: 99663
+Misses: 268484
+Writebacks: 109023
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.529094
+Average access time (AAT): 54.909402
+-----------------------------
+Cache Settings
+C: 9
+B: 0
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 134459
+Writes: 205389
+Write misses: 80503
+Misses: 214962
+Writebacks: 86538
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.423620
+Average access time (AAT): 44.361969
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 101348
+Writes: 205389
+Write misses: 70928
+Misses: 172276
+Writebacks: 96288
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.339500
+Average access time (AAT): 35.949957
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 109614
+Writes: 205389
+Write misses: 68853
+Misses: 178467
+Writebacks: 93828
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.351700
+Average access time (AAT): 37.170000
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 122270
+Writes: 205389
+Write misses: 73674
+Misses: 195944
+Writebacks: 97571
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.386141
+Average access time (AAT): 40.614144
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 135476
+Writes: 205389
+Write misses: 82271
+Misses: 217747
+Writebacks: 107069
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.429108
+Average access time (AAT): 44.910801
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 150749
+Writes: 205389
+Write misses: 90457
+Misses: 241206
+Writebacks: 111540
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.475338
+Average access time (AAT): 49.533802
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 164722
+Writes: 205389
+Write misses: 105328
+Misses: 270050
+Writebacks: 122268
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.532180
+Average access time (AAT): 55.218010
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 178457
+Writes: 205389
+Write misses: 115435
+Misses: 293892
+Writebacks: 127693
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.579165
+Average access time (AAT): 59.916487
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 186324
+Writes: 205389
+Write misses: 119280
+Misses: 305604
+Writebacks: 128517
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.602245
+Average access time (AAT): 62.224538
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 160427
+Writes: 205389
+Write misses: 94582
+Misses: 255009
+Writebacks: 103722
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.502539
+Average access time (AAT): 52.253921
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 128717
+Writes: 205389
+Write misses: 78036
+Misses: 206753
+Writebacks: 83748
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.407442
+Average access time (AAT): 42.744244
+-----------------------------
+Cache Settings
+C: 10
+B: 0
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 103496
+Writes: 205389
+Write misses: 61189
+Misses: 164685
+Writebacks: 65826
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.324540
+Average access time (AAT): 34.454019
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 80338
+Writes: 205389
+Write misses: 57130
+Misses: 137468
+Writebacks: 77014
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.270904
+Average access time (AAT): 29.090440
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 74232
+Writes: 205389
+Write misses: 49944
+Misses: 124176
+Writebacks: 65723
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.244710
+Average access time (AAT): 26.471022
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 79045
+Writes: 205389
+Write misses: 50023
+Misses: 129068
+Writebacks: 65261
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.254351
+Average access time (AAT): 27.435075
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 87940
+Writes: 205389
+Write misses: 52694
+Misses: 140634
+Writebacks: 68435
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.277144
+Average access time (AAT): 29.714355
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 98204
+Writes: 205389
+Write misses: 58239
+Misses: 156443
+Writebacks: 72804
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.308298
+Average access time (AAT): 32.829791
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 105020
+Writes: 205389
+Write misses: 65209
+Misses: 170229
+Writebacks: 79044
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.335466
+Average access time (AAT): 35.546560
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 118297
+Writes: 205389
+Write misses: 71546
+Misses: 189843
+Writebacks: 83622
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.374118
+Average access time (AAT): 39.411837
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 132730
+Writes: 205389
+Write misses: 81133
+Misses: 213863
+Writebacks: 90604
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.421454
+Average access time (AAT): 44.145392
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 138963
+Writes: 205389
+Write misses: 84547
+Misses: 223510
+Writebacks: 91597
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.440465
+Average access time (AAT): 46.046500
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 117559
+Writes: 205389
+Write misses: 73988
+Misses: 191547
+Writebacks: 79443
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.377476
+Average access time (AAT): 39.747640
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 93708
+Writes: 205389
+Write misses: 55728
+Misses: 149436
+Writebacks: 59974
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.294489
+Average access time (AAT): 31.448941
+-----------------------------
+Cache Settings
+C: 11
+B: 0
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 67150
+Writes: 205389
+Write misses: 39254
+Misses: 106404
+Writebacks: 39388
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.209687
+Average access time (AAT): 22.968743
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 62789
+Writes: 205389
+Write misses: 46908
+Misses: 109697
+Writebacks: 61496
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.216177
+Average access time (AAT): 23.617686
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 54288
+Writes: 205389
+Write misses: 36900
+Misses: 91188
+Writebacks: 46981
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.179702
+Average access time (AAT): 19.970168
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 54427
+Writes: 205389
+Write misses: 36294
+Misses: 90721
+Writebacks: 45873
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.178781
+Average access time (AAT): 19.878138
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 54399
+Writes: 205389
+Write misses: 34955
+Misses: 89354
+Writebacks: 43043
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.176087
+Average access time (AAT): 19.608747
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 58021
+Writes: 205389
+Write misses: 36883
+Misses: 94904
+Writebacks: 45493
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.187025
+Average access time (AAT): 20.702470
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 61845
+Writes: 205389
+Write misses: 40166
+Misses: 102011
+Writebacks: 48839
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.201030
+Average access time (AAT): 22.103027
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 71669
+Writes: 205389
+Write misses: 46012
+Misses: 117681
+Writebacks: 54724
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.231911
+Average access time (AAT): 25.191070
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 81291
+Writes: 205389
+Write misses: 52800
+Misses: 134091
+Writebacks: 60043
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.264249
+Average access time (AAT): 28.424944
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 89739
+Writes: 205389
+Write misses: 59406
+Misses: 149145
+Writebacks: 65174
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.293916
+Average access time (AAT): 31.391594
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 99184
+Writes: 205389
+Write misses: 64570
+Misses: 163754
+Writebacks: 68201
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.322705
+Average access time (AAT): 34.270550
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 82059
+Writes: 205389
+Write misses: 51376
+Misses: 133435
+Writebacks: 54988
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.262957
+Average access time (AAT): 28.295668
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 54369
+Writes: 205389
+Write misses: 33710
+Misses: 88079
+Writebacks: 32972
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.173575
+Average access time (AAT): 19.357486
+-----------------------------
+Cache Settings
+C: 12
+B: 0
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 51981
+Writes: 205389
+Write misses: 24235
+Misses: 76216
+Writebacks: 22102
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.150197
+Average access time (AAT): 17.019677
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 50189
+Writes: 205389
+Write misses: 40026
+Misses: 90215
+Writebacks: 50310
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.177784
+Average access time (AAT): 19.778422
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 40522
+Writes: 205389
+Write misses: 28292
+Misses: 68814
+Writebacks: 34020
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.135610
+Average access time (AAT): 15.560985
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38651
+Writes: 205389
+Write misses: 25482
+Misses: 64133
+Writebacks: 30205
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.126385
+Average access time (AAT): 14.638514
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38479
+Writes: 205389
+Write misses: 24805
+Misses: 63284
+Writebacks: 28807
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.124712
+Average access time (AAT): 14.471204
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 39302
+Writes: 205389
+Write misses: 24656
+Misses: 63958
+Writebacks: 28596
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.126040
+Average access time (AAT): 14.604027
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 41241
+Writes: 205389
+Write misses: 24925
+Misses: 66166
+Writebacks: 28937
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.130392
+Average access time (AAT): 15.039151
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 42871
+Writes: 205389
+Write misses: 25735
+Misses: 68606
+Writebacks: 29654
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.135200
+Average access time (AAT): 15.519995
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 46327
+Writes: 205389
+Write misses: 27486
+Misses: 73813
+Writebacks: 31273
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.145461
+Average access time (AAT): 16.546125
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 49578
+Writes: 205389
+Write misses: 29168
+Misses: 78746
+Writebacks: 32453
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.155183
+Average access time (AAT): 17.518257
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 56039
+Writes: 205389
+Write misses: 33523
+Misses: 89562
+Writebacks: 36273
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.176497
+Average access time (AAT): 19.649737
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 67805
+Writes: 205389
+Write misses: 39704
+Misses: 107509
+Writebacks: 41887
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.211865
+Average access time (AAT): 23.186502
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 47578
+Writes: 205389
+Write misses: 31101
+Misses: 78679
+Writebacks: 29964
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.155051
+Average access time (AAT): 17.505054
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 41875
+Writes: 205389
+Write misses: 20952
+Misses: 62827
+Writebacks: 18104
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.123811
+Average access time (AAT): 14.381144
+-----------------------------
+Cache Settings
+C: 13
+B: 0
+S: 13
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 14596
+Writes: 205389
+Write misses: 8540
+Misses: 23136
+Writebacks: 4782
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.045593
+Average access time (AAT): 6.559348
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 36802
+Writes: 205389
+Write misses: 30005
+Misses: 66807
+Writebacks: 36519
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.131655
+Average access time (AAT): 15.165471
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 32163
+Writes: 205389
+Write misses: 22593
+Misses: 54756
+Writebacks: 25775
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.107906
+Average access time (AAT): 12.790614
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28966
+Writes: 205389
+Write misses: 19618
+Misses: 48584
+Writebacks: 20832
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.095743
+Average access time (AAT): 11.574315
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28082
+Writes: 205389
+Write misses: 18154
+Misses: 46236
+Writebacks: 18730
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.091116
+Average access time (AAT): 11.111601
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28172
+Writes: 205389
+Write misses: 17470
+Misses: 45642
+Writebacks: 17710
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.089945
+Average access time (AAT): 10.994543
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28878
+Writes: 205389
+Write misses: 17139
+Misses: 46017
+Writebacks: 17145
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.090684
+Average access time (AAT): 11.068443
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 29674
+Writes: 205389
+Write misses: 17078
+Misses: 46752
+Writebacks: 17052
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.092133
+Average access time (AAT): 11.213288
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 30598
+Writes: 205389
+Write misses: 17227
+Misses: 47825
+Writebacks: 16931
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.094247
+Average access time (AAT): 11.424741
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31351
+Writes: 205389
+Write misses: 17693
+Misses: 49044
+Writebacks: 17048
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.096650
+Average access time (AAT): 11.664966
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 32098
+Writes: 205389
+Write misses: 18711
+Misses: 50809
+Writebacks: 17630
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.100128
+Average access time (AAT): 12.012790
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 35160
+Writes: 205389
+Write misses: 20104
+Misses: 55264
+Writebacks: 18492
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.108907
+Average access time (AAT): 12.890724
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38936
+Writes: 205389
+Write misses: 23264
+Misses: 62200
+Writebacks: 20819
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.122576
+Average access time (AAT): 14.257583
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 33718
+Writes: 205389
+Write misses: 19240
+Misses: 52958
+Writebacks: 16084
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.104363
+Average access time (AAT): 12.436287
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 13
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 9925
+Writes: 205389
+Write misses: 6266
+Misses: 16191
+Writebacks: 1482
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.031907
+Average access time (AAT): 5.190716
+-----------------------------
+Cache Settings
+C: 14
+B: 0
+S: 14
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 8186
+Writes: 205389
+Write misses: 5679
+Misses: 13865
+Writebacks: 0
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.027323
+Average access time (AAT): 4.732337
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28874
+Writes: 205389
+Write misses: 22452
+Misses: 51326
+Writebacks: 26143
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.101147
+Average access time (AAT): 12.114673
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 23473
+Writes: 205389
+Write misses: 15986
+Misses: 39459
+Writebacks: 16660
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.077761
+Average access time (AAT): 9.776076
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21692
+Writes: 205389
+Write misses: 13486
+Misses: 35178
+Writebacks: 12188
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.069324
+Average access time (AAT): 8.932432
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17851
+Writes: 205389
+Write misses: 12837
+Misses: 30688
+Writebacks: 9850
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.060476
+Average access time (AAT): 8.047600
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17043
+Writes: 205389
+Write misses: 12317
+Misses: 29360
+Writebacks: 8788
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.057859
+Average access time (AAT): 7.785894
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17197
+Writes: 205389
+Write misses: 12104
+Misses: 29301
+Writebacks: 8357
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.057743
+Average access time (AAT): 7.774267
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17644
+Writes: 205389
+Write misses: 11800
+Misses: 29444
+Writebacks: 7974
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.058024
+Average access time (AAT): 7.802448
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18451
+Writes: 205389
+Write misses: 11517
+Misses: 29968
+Writebacks: 7675
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.059057
+Average access time (AAT): 7.905711
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19073
+Writes: 205389
+Write misses: 11472
+Misses: 30545
+Writebacks: 7582
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.060194
+Average access time (AAT): 8.019419
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19366
+Writes: 205389
+Write misses: 11526
+Misses: 30892
+Writebacks: 7624
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.060878
+Average access time (AAT): 8.087801
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 20020
+Writes: 205389
+Write misses: 11711
+Misses: 31731
+Writebacks: 7822
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.062531
+Average access time (AAT): 8.253141
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 20604
+Writes: 205389
+Write misses: 11984
+Misses: 32588
+Writebacks: 8075
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.064220
+Average access time (AAT): 8.422027
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21072
+Writes: 205389
+Write misses: 12990
+Misses: 34062
+Writebacks: 9004
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.067125
+Average access time (AAT): 8.712505
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 13
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 8616
+Writes: 205389
+Write misses: 5882
+Misses: 14498
+Writebacks: 763
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.028571
+Average access time (AAT): 4.857081
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 14
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 8186
+Writes: 205389
+Write misses: 5679
+Misses: 13865
+Writebacks: 0
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.027323
+Average access time (AAT): 4.732337
+-----------------------------
+Cache Settings
+C: 15
+B: 0
+S: 15
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 8186
+Writes: 205389
+Write misses: 5679
+Misses: 13865
+Writebacks: 0
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.027323
+Average access time (AAT): 4.732337
+-----------------------------
+Cache Settings
+C: 1
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 295174
+Writes: 205389
+Write misses: 188010
+Misses: 483184
+Writebacks: 204395
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.952197
+Average access time (AAT): 97.219740
+-----------------------------
+Cache Settings
+C: 2
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 291139
+Writes: 205389
+Write misses: 186636
+Misses: 477775
+Writebacks: 203156
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.941538
+Average access time (AAT): 96.153803
+-----------------------------
+Cache Settings
+C: 2
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 294520
+Writes: 205389
+Write misses: 187784
+Misses: 482304
+Writebacks: 204063
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.950463
+Average access time (AAT): 97.046321
+-----------------------------
+Cache Settings
+C: 3
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 283272
+Writes: 205389
+Write misses: 184220
+Misses: 467492
+Writebacks: 201185
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.921274
+Average access time (AAT): 94.127361
+-----------------------------
+Cache Settings
+C: 3
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 290415
+Writes: 205389
+Write misses: 186296
+Misses: 476711
+Writebacks: 202709
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.939441
+Average access time (AAT): 95.944124
+-----------------------------
+Cache Settings
+C: 3
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 294918
+Writes: 205389
+Write misses: 187965
+Misses: 482883
+Writebacks: 204326
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.951604
+Average access time (AAT): 97.160423
+-----------------------------
+Cache Settings
+C: 4
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 272500
+Writes: 205389
+Write misses: 177186
+Misses: 449686
+Writebacks: 198704
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.886184
+Average access time (AAT): 90.618381
+-----------------------------
+Cache Settings
+C: 4
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 282021
+Writes: 205389
+Write misses: 183695
+Misses: 465716
+Writebacks: 200663
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.917774
+Average access time (AAT): 93.777369
+-----------------------------
+Cache Settings
+C: 4
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 286678
+Writes: 205389
+Write misses: 185741
+Misses: 472419
+Writebacks: 199137
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.930983
+Average access time (AAT): 95.098311
+-----------------------------
+Cache Settings
+C: 4
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 290250
+Writes: 205389
+Write misses: 187659
+Misses: 477909
+Writebacks: 200653
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.941802
+Average access time (AAT): 96.180210
+-----------------------------
+Cache Settings
+C: 5
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 256382
+Writes: 205389
+Write misses: 162560
+Misses: 418942
+Writebacks: 194234
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.825597
+Average access time (AAT): 84.559746
+-----------------------------
+Cache Settings
+C: 5
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 267685
+Writes: 205389
+Write misses: 175631
+Misses: 443316
+Writebacks: 194063
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.873631
+Average access time (AAT): 89.363063
+-----------------------------
+Cache Settings
+C: 5
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 276812
+Writes: 205389
+Write misses: 183231
+Misses: 460043
+Writebacks: 197138
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.906594
+Average access time (AAT): 92.659407
+-----------------------------
+Cache Settings
+C: 5
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 284352
+Writes: 205389
+Write misses: 185075
+Misses: 469427
+Writebacks: 198155
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.925087
+Average access time (AAT): 94.508686
+-----------------------------
+Cache Settings
+C: 5
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 287316
+Writes: 205389
+Write misses: 185463
+Misses: 472779
+Writebacks: 197864
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.931693
+Average access time (AAT): 95.169255
+-----------------------------
+Cache Settings
+C: 6
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 230431
+Writes: 205389
+Write misses: 143433
+Misses: 373864
+Writebacks: 184727
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.736763
+Average access time (AAT): 75.676349
+-----------------------------
+Cache Settings
+C: 6
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 252284
+Writes: 205389
+Write misses: 160197
+Misses: 412481
+Writebacks: 191118
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.812865
+Average access time (AAT): 83.286494
+-----------------------------
+Cache Settings
+C: 6
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 263461
+Writes: 205389
+Write misses: 171839
+Misses: 435300
+Writebacks: 189654
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.857834
+Average access time (AAT): 87.783372
+-----------------------------
+Cache Settings
+C: 6
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 274664
+Writes: 205389
+Write misses: 182038
+Misses: 456702
+Writebacks: 195400
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.900010
+Average access time (AAT): 92.001005
+-----------------------------
+Cache Settings
+C: 6
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 281133
+Writes: 205389
+Write misses: 181690
+Misses: 462823
+Writebacks: 194426
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.912073
+Average access time (AAT): 93.207254
+-----------------------------
+Cache Settings
+C: 6
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 275742
+Writes: 205389
+Write misses: 177253
+Misses: 452995
+Writebacks: 189543
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.892705
+Average access time (AAT): 91.270477
+-----------------------------
+Cache Settings
+C: 7
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 197756
+Writes: 205389
+Write misses: 126391
+Misses: 324147
+Writebacks: 171604
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.638788
+Average access time (AAT): 65.878756
+-----------------------------
+Cache Settings
+C: 7
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 219816
+Writes: 205389
+Write misses: 139796
+Misses: 359612
+Writebacks: 175109
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.708677
+Average access time (AAT): 72.867746
+-----------------------------
+Cache Settings
+C: 7
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 245087
+Writes: 205389
+Write misses: 154832
+Misses: 399919
+Writebacks: 184432
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.788109
+Average access time (AAT): 80.810936
+-----------------------------
+Cache Settings
+C: 7
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 256281
+Writes: 205389
+Write misses: 166390
+Misses: 422671
+Writebacks: 183700
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.832946
+Average access time (AAT): 85.294610
+-----------------------------
+Cache Settings
+C: 7
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 267756
+Writes: 205389
+Write misses: 175284
+Misses: 443040
+Writebacks: 188095
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.873087
+Average access time (AAT): 89.308672
+-----------------------------
+Cache Settings
+C: 7
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 266527
+Writes: 205389
+Write misses: 170562
+Misses: 437089
+Writebacks: 182919
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.861359
+Average access time (AAT): 88.135925
+-----------------------------
+Cache Settings
+C: 7
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 259555
+Writes: 205389
+Write misses: 161742
+Misses: 421297
+Writebacks: 173670
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.830238
+Average access time (AAT): 85.023839
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 159720
+Writes: 205389
+Write misses: 106962
+Misses: 266682
+Writebacks: 147531
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.525543
+Average access time (AAT): 54.554287
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 184384
+Writes: 205389
+Write misses: 118965
+Misses: 303349
+Writebacks: 156899
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.597802
+Average access time (AAT): 61.780152
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 207771
+Writes: 205389
+Write misses: 130518
+Misses: 338289
+Writebacks: 163161
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.666657
+Average access time (AAT): 68.665681
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 230456
+Writes: 205389
+Write misses: 146287
+Misses: 376743
+Writebacks: 170460
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.742437
+Average access time (AAT): 76.243705
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 244156
+Writes: 205389
+Write misses: 159008
+Misses: 403164
+Writebacks: 175060
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.794504
+Average access time (AAT): 81.450419
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 254545
+Writes: 205389
+Write misses: 166932
+Misses: 421477
+Writebacks: 179223
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.830593
+Average access time (AAT): 85.059311
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 251788
+Writes: 205389
+Write misses: 157114
+Misses: 408902
+Writebacks: 168821
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.805812
+Average access time (AAT): 82.581191
+-----------------------------
+Cache Settings
+C: 8
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 214138
+Writes: 205389
+Write misses: 136145
+Misses: 350283
+Writebacks: 147456
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.690293
+Average access time (AAT): 71.029306
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 127969
+Writes: 205389
+Write misses: 87645
+Misses: 215614
+Writebacks: 121670
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.424905
+Average access time (AAT): 44.490457
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 146160
+Writes: 205389
+Write misses: 94635
+Misses: 240795
+Writebacks: 129426
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.474528
+Average access time (AAT): 49.452807
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 162818
+Writes: 205389
+Write misses: 102597
+Misses: 265415
+Writebacks: 135442
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.523046
+Average access time (AAT): 54.304603
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 187492
+Writes: 205389
+Write misses: 115437
+Misses: 302929
+Writebacks: 145436
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.596974
+Average access time (AAT): 61.697384
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 209258
+Writes: 205389
+Write misses: 132911
+Misses: 342169
+Writebacks: 154519
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.674303
+Average access time (AAT): 69.430302
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 224258
+Writes: 205389
+Write misses: 143506
+Misses: 367764
+Writebacks: 157537
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.724742
+Average access time (AAT): 74.474238
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 234222
+Writes: 205389
+Write misses: 149783
+Misses: 384005
+Writebacks: 160457
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.756748
+Average access time (AAT): 77.674808
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 204398
+Writes: 205389
+Write misses: 129023
+Misses: 333421
+Writebacks: 140627
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.657064
+Average access time (AAT): 67.706358
+-----------------------------
+Cache Settings
+C: 9
+B: 1
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 170582
+Writes: 205389
+Write misses: 102690
+Misses: 273272
+Writebacks: 112440
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.538530
+Average access time (AAT): 55.852960
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 97377
+Writes: 205389
+Write misses: 69065
+Misses: 166442
+Writebacks: 94504
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.328003
+Average access time (AAT): 34.800266
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 105635
+Writes: 205389
+Write misses: 67367
+Misses: 173002
+Writebacks: 92238
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.340930
+Average access time (AAT): 36.093028
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 119140
+Writes: 205389
+Write misses: 73273
+Misses: 192413
+Writebacks: 97584
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.379183
+Average access time (AAT): 39.918300
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 133334
+Writes: 205389
+Write misses: 81861
+Misses: 215195
+Writebacks: 107793
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.424079
+Average access time (AAT): 44.407886
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 148171
+Writes: 205389
+Write misses: 90744
+Misses: 238915
+Writebacks: 112365
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.470823
+Average access time (AAT): 49.082321
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 164163
+Writes: 205389
+Write misses: 105124
+Misses: 269287
+Writebacks: 122595
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.530676
+Average access time (AAT): 55.067647
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 175825
+Writes: 205389
+Write misses: 116150
+Misses: 291975
+Writebacks: 128707
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.575387
+Average access time (AAT): 59.538709
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 186086
+Writes: 205389
+Write misses: 119297
+Misses: 305383
+Writebacks: 128866
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.601810
+Average access time (AAT): 62.180987
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 160718
+Writes: 205389
+Write misses: 96485
+Misses: 257203
+Writebacks: 106177
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.506863
+Average access time (AAT): 52.686287
+-----------------------------
+Cache Settings
+C: 10
+B: 1
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 133931
+Writes: 205389
+Write misses: 83376
+Misses: 217307
+Writebacks: 90430
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.428241
+Average access time (AAT): 44.824092
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 77286
+Writes: 205389
+Write misses: 55940
+Misses: 133226
+Writebacks: 76048
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.262545
+Average access time (AAT): 28.254481
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 71990
+Writes: 205389
+Write misses: 49045
+Misses: 121035
+Writebacks: 65187
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.238520
+Average access time (AAT): 25.852034
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 76103
+Writes: 205389
+Write misses: 49482
+Misses: 125585
+Writebacks: 65400
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.247487
+Average access time (AAT): 26.748690
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 85802
+Writes: 205389
+Write misses: 52449
+Misses: 138251
+Writebacks: 68692
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.272447
+Average access time (AAT): 29.244744
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 99096
+Writes: 205389
+Write misses: 58461
+Misses: 157557
+Writebacks: 73979
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.310493
+Average access time (AAT): 33.049324
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 104189
+Writes: 205389
+Write misses: 64806
+Misses: 168995
+Writebacks: 78935
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.333034
+Average access time (AAT): 35.303379
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 119672
+Writes: 205389
+Write misses: 72661
+Misses: 192333
+Writebacks: 85211
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.379025
+Average access time (AAT): 39.902534
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 132426
+Writes: 205389
+Write misses: 80914
+Misses: 213340
+Writebacks: 90477
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.420423
+Average access time (AAT): 44.042326
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 140173
+Writes: 205389
+Write misses: 86181
+Misses: 226354
+Writebacks: 94047
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.446070
+Average access time (AAT): 46.606959
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 122323
+Writes: 205389
+Write misses: 77651
+Misses: 199974
+Writebacks: 84205
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.394083
+Average access time (AAT): 41.408325
+-----------------------------
+Cache Settings
+C: 11
+B: 1
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 99598
+Writes: 205389
+Write misses: 61354
+Misses: 160952
+Writebacks: 66315
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.317184
+Average access time (AAT): 33.718367
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 60655
+Writes: 205389
+Write misses: 46167
+Misses: 106822
+Writebacks: 61126
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.210511
+Average access time (AAT): 23.051117
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53293
+Writes: 205389
+Write misses: 36441
+Misses: 89734
+Writebacks: 47076
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.176836
+Average access time (AAT): 19.683632
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53732
+Writes: 205389
+Write misses: 35843
+Misses: 89575
+Writebacks: 46064
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.176523
+Average access time (AAT): 19.652298
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53898
+Writes: 205389
+Write misses: 34753
+Misses: 88651
+Writebacks: 43592
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.174702
+Average access time (AAT): 19.470208
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 57862
+Writes: 205389
+Write misses: 36651
+Misses: 94513
+Writebacks: 46089
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.186254
+Average access time (AAT): 20.625417
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 61720
+Writes: 205389
+Write misses: 40125
+Misses: 101845
+Writebacks: 49685
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.200703
+Average access time (AAT): 22.070314
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 71533
+Writes: 205389
+Write misses: 46028
+Misses: 117561
+Writebacks: 55445
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.231674
+Average access time (AAT): 25.167422
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 80859
+Writes: 205389
+Write misses: 52682
+Misses: 133541
+Writebacks: 60617
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.263166
+Average access time (AAT): 28.316557
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 91933
+Writes: 205389
+Write misses: 59183
+Misses: 151116
+Writebacks: 65730
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.297800
+Average access time (AAT): 31.780014
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 99754
+Writes: 205389
+Write misses: 64443
+Misses: 164197
+Writebacks: 68937
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.323579
+Average access time (AAT): 34.357850
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 85011
+Writes: 205389
+Write misses: 53815
+Misses: 138826
+Writebacks: 58305
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.273581
+Average access time (AAT): 29.358057
+-----------------------------
+Cache Settings
+C: 12
+B: 1
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 66100
+Writes: 205389
+Write misses: 37137
+Misses: 103237
+Writebacks: 40173
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.203446
+Average access time (AAT): 22.344631
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 48283
+Writes: 205389
+Write misses: 39492
+Misses: 87775
+Writebacks: 50266
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.172976
+Average access time (AAT): 19.297577
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 39729
+Writes: 205389
+Write misses: 27802
+Misses: 67531
+Writebacks: 34142
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.133081
+Average access time (AAT): 15.308148
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 37908
+Writes: 205389
+Write misses: 25125
+Misses: 63033
+Writebacks: 30495
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.124217
+Average access time (AAT): 14.421740
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 37731
+Writes: 205389
+Write misses: 24495
+Misses: 62226
+Writebacks: 29181
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.122627
+Average access time (AAT): 14.262706
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38377
+Writes: 205389
+Write misses: 24408
+Misses: 62785
+Writebacks: 29098
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.123729
+Average access time (AAT): 14.372867
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 40435
+Writes: 205389
+Write misses: 24684
+Misses: 65119
+Writebacks: 29405
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.128328
+Average access time (AAT): 14.832822
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 41744
+Writes: 205389
+Write misses: 25439
+Misses: 67183
+Writebacks: 30129
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.132396
+Average access time (AAT): 15.239569
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 45037
+Writes: 205389
+Write misses: 27163
+Misses: 72200
+Writebacks: 31731
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.142283
+Average access time (AAT): 16.228255
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 49058
+Writes: 205389
+Write misses: 29174
+Misses: 78232
+Writebacks: 33276
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.154170
+Average access time (AAT): 17.416965
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 54793
+Writes: 205389
+Write misses: 32885
+Misses: 87678
+Writebacks: 36306
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.172785
+Average access time (AAT): 19.278462
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 69386
+Writes: 205389
+Write misses: 40510
+Misses: 109896
+Writebacks: 43591
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.216569
+Average access time (AAT): 23.656902
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 51907
+Writes: 205389
+Write misses: 31340
+Misses: 83247
+Writebacks: 33142
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.164053
+Average access time (AAT): 18.405257
+-----------------------------
+Cache Settings
+C: 13
+B: 1
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 39170
+Writes: 205389
+Write misses: 22826
+Misses: 61996
+Writebacks: 21065
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.122174
+Average access time (AAT): 14.217381
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 35427
+Writes: 205389
+Write misses: 29457
+Misses: 64884
+Writebacks: 36503
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.127865
+Average access time (AAT): 14.786511
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31079
+Writes: 205389
+Write misses: 22119
+Misses: 53198
+Writebacks: 25998
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.104836
+Average access time (AAT): 12.483583
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27785
+Writes: 205389
+Write misses: 19032
+Misses: 46817
+Writebacks: 20930
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.092261
+Average access time (AAT): 11.226097
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 26912
+Writes: 205389
+Write misses: 17630
+Misses: 44542
+Writebacks: 18914
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.087778
+Average access time (AAT): 10.777769
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 26996
+Writes: 205389
+Write misses: 16866
+Misses: 43862
+Writebacks: 17796
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.086438
+Average access time (AAT): 10.643764
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27722
+Writes: 205389
+Write misses: 16644
+Misses: 44366
+Writebacks: 17514
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.087431
+Average access time (AAT): 10.743085
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28444
+Writes: 205389
+Write misses: 16497
+Misses: 44941
+Writebacks: 17413
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.088564
+Average access time (AAT): 10.856399
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 29635
+Writes: 205389
+Write misses: 16541
+Misses: 46176
+Writebacks: 17537
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.090998
+Average access time (AAT): 11.099777
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 30406
+Writes: 205389
+Write misses: 16875
+Misses: 47281
+Writebacks: 17521
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.093175
+Average access time (AAT): 11.317536
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31804
+Writes: 205389
+Write misses: 18161
+Misses: 49965
+Writebacks: 18347
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.098465
+Average access time (AAT): 11.846465
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 33302
+Writes: 205389
+Write misses: 19688
+Misses: 52990
+Writebacks: 19561
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.104426
+Average access time (AAT): 12.442593
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 36772
+Writes: 205389
+Write misses: 22487
+Misses: 59259
+Writebacks: 20847
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.116780
+Average access time (AAT): 13.678008
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31215
+Writes: 205389
+Write misses: 19391
+Misses: 50606
+Writebacks: 17035
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.099728
+Average access time (AAT): 11.972785
+-----------------------------
+Cache Settings
+C: 14
+B: 1
+S: 13
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 8639
+Writes: 205389
+Write misses: 5879
+Misses: 14518
+Writebacks: 1848
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.028610
+Average access time (AAT): 4.861022
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27613
+Writes: 205389
+Write misses: 21860
+Misses: 49473
+Writebacks: 26159
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.097495
+Average access time (AAT): 11.749508
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 22290
+Writes: 205389
+Write misses: 15439
+Misses: 37729
+Writebacks: 16743
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.074352
+Average access time (AAT): 9.435150
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 20442
+Writes: 205389
+Write misses: 12933
+Misses: 33375
+Writebacks: 12380
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.065771
+Average access time (AAT): 8.577119
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16628
+Writes: 205389
+Write misses: 12250
+Misses: 28878
+Writebacks: 9975
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.056909
+Average access time (AAT): 7.690908
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15539
+Writes: 205389
+Write misses: 11777
+Misses: 27316
+Writebacks: 8919
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.053831
+Average access time (AAT): 7.383089
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15527
+Writes: 205389
+Write misses: 11624
+Misses: 27151
+Writebacks: 8572
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.053506
+Average access time (AAT): 7.350573
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15866
+Writes: 205389
+Write misses: 11408
+Misses: 27274
+Writebacks: 8256
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.053748
+Average access time (AAT): 7.374812
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16719
+Writes: 205389
+Write misses: 11180
+Misses: 27899
+Writebacks: 8010
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.054980
+Average access time (AAT): 7.497979
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17383
+Writes: 205389
+Write misses: 11118
+Misses: 28501
+Writebacks: 7919
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.056166
+Average access time (AAT): 7.616614
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18065
+Writes: 205389
+Write misses: 11083
+Misses: 29148
+Writebacks: 7876
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.057441
+Average access time (AAT): 7.744116
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18762
+Writes: 205389
+Write misses: 11298
+Misses: 30060
+Writebacks: 8101
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.059238
+Average access time (AAT): 7.923841
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19421
+Writes: 205389
+Write misses: 11517
+Misses: 30938
+Writebacks: 8305
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.060969
+Average access time (AAT): 8.096866
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18296
+Writes: 205389
+Write misses: 12821
+Misses: 31117
+Writebacks: 9532
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.061321
+Average access time (AAT): 8.132141
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 13
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 7243
+Writes: 205389
+Write misses: 5254
+Misses: 12497
+Writebacks: 820
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.024627
+Average access time (AAT): 4.462749
+-----------------------------
+Cache Settings
+C: 15
+B: 1
+S: 14
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 6918
+Writes: 205389
+Write misses: 5047
+Misses: 11965
+Writebacks: 0
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.023579
+Average access time (AAT): 4.357910
+-----------------------------
+Cache Settings
+C: 2
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 293383
+Writes: 205389
+Write misses: 187913
+Misses: 481296
+Writebacks: 204298
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.948477
+Average access time (AAT): 96.847677
+-----------------------------
+Cache Settings
+C: 3
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 283743
+Writes: 205389
+Write misses: 184563
+Misses: 468306
+Writebacks: 201503
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.922878
+Average access time (AAT): 94.287773
+-----------------------------
+Cache Settings
+C: 3
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 293224
+Writes: 205389
+Write misses: 187872
+Misses: 481096
+Writebacks: 204257
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.948083
+Average access time (AAT): 96.808263
+-----------------------------
+Cache Settings
+C: 4
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 273046
+Writes: 205389
+Write misses: 177564
+Misses: 450610
+Writebacks: 198978
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.888005
+Average access time (AAT): 90.800471
+-----------------------------
+Cache Settings
+C: 4
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 283007
+Writes: 205389
+Write misses: 184497
+Misses: 467504
+Writebacks: 201441
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.921297
+Average access time (AAT): 94.129725
+-----------------------------
+Cache Settings
+C: 4
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 292878
+Writes: 205389
+Write misses: 187801
+Misses: 480679
+Writebacks: 204186
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.947261
+Average access time (AAT): 96.726086
+-----------------------------
+Cache Settings
+C: 5
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 255973
+Writes: 205389
+Write misses: 162609
+Misses: 418582
+Writebacks: 194216
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.824888
+Average access time (AAT): 84.488802
+-----------------------------
+Cache Settings
+C: 5
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 270253
+Writes: 205389
+Write misses: 175554
+Misses: 445807
+Writebacks: 197321
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.878540
+Average access time (AAT): 89.853957
+-----------------------------
+Cache Settings
+C: 5
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 281977
+Writes: 205389
+Write misses: 183709
+Misses: 465686
+Writebacks: 200536
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.917715
+Average access time (AAT): 93.771457
+-----------------------------
+Cache Settings
+C: 5
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 288105
+Writes: 205389
+Write misses: 186346
+Misses: 474451
+Writebacks: 199622
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.934988
+Average access time (AAT): 95.498752
+-----------------------------
+Cache Settings
+C: 6
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 229490
+Writes: 205389
+Write misses: 143422
+Misses: 372912
+Writebacks: 184654
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.734887
+Average access time (AAT): 75.488741
+-----------------------------
+Cache Settings
+C: 6
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 251932
+Writes: 205389
+Write misses: 160358
+Misses: 412290
+Writebacks: 191226
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.812489
+Average access time (AAT): 83.248855
+-----------------------------
+Cache Settings
+C: 6
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 264554
+Writes: 205389
+Write misses: 173485
+Misses: 438039
+Writebacks: 191690
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.863231
+Average access time (AAT): 88.323139
+-----------------------------
+Cache Settings
+C: 6
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 277571
+Writes: 205389
+Write misses: 182456
+Misses: 460027
+Writebacks: 196124
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.906563
+Average access time (AAT): 92.656254
+-----------------------------
+Cache Settings
+C: 6
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 284665
+Writes: 205389
+Write misses: 183683
+Misses: 468348
+Writebacks: 196819
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.922961
+Average access time (AAT): 94.296050
+-----------------------------
+Cache Settings
+C: 7
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 196468
+Writes: 205389
+Write misses: 126342
+Misses: 322810
+Writebacks: 171447
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.636153
+Average access time (AAT): 65.615277
+-----------------------------
+Cache Settings
+C: 7
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 219435
+Writes: 205389
+Write misses: 140573
+Misses: 360008
+Writebacks: 176021
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.709458
+Average access time (AAT): 72.945785
+-----------------------------
+Cache Settings
+C: 7
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 246317
+Writes: 205389
+Write misses: 155791
+Misses: 402108
+Writebacks: 185341
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.792423
+Average access time (AAT): 81.242316
+-----------------------------
+Cache Settings
+C: 7
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 257582
+Writes: 205389
+Write misses: 169271
+Misses: 426853
+Writebacks: 185817
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.841187
+Average access time (AAT): 86.118745
+-----------------------------
+Cache Settings
+C: 7
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 273140
+Writes: 205389
+Write misses: 179699
+Misses: 452839
+Writebacks: 192991
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.892397
+Average access time (AAT): 91.239734
+-----------------------------
+Cache Settings
+C: 7
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 271325
+Writes: 205389
+Write misses: 173926
+Misses: 445251
+Writebacks: 186842
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.877444
+Average access time (AAT): 89.744388
+-----------------------------
+Cache Settings
+C: 8
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 158165
+Writes: 205389
+Write misses: 106761
+Misses: 264926
+Writebacks: 147418
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.522082
+Average access time (AAT): 54.208237
+-----------------------------
+Cache Settings
+C: 8
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 183079
+Writes: 205389
+Write misses: 118465
+Misses: 301544
+Writebacks: 156583
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.594244
+Average access time (AAT): 61.424445
+-----------------------------
+Cache Settings
+C: 8
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 207446
+Writes: 205389
+Write misses: 131712
+Misses: 339158
+Writebacks: 164290
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.668369
+Average access time (AAT): 68.836933
+-----------------------------
+Cache Settings
+C: 8
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 232177
+Writes: 205389
+Write misses: 148598
+Misses: 380775
+Writebacks: 173616
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.750383
+Average access time (AAT): 77.038280
+-----------------------------
+Cache Settings
+C: 8
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 245074
+Writes: 205389
+Write misses: 161273
+Misses: 406347
+Writebacks: 176984
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.800777
+Average access time (AAT): 82.077684
+-----------------------------
+Cache Settings
+C: 8
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 256441
+Writes: 205389
+Write misses: 169148
+Misses: 425589
+Writebacks: 182004
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.838697
+Average access time (AAT): 85.869652
+-----------------------------
+Cache Settings
+C: 8
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 255762
+Writes: 205389
+Write misses: 160987
+Misses: 416749
+Writebacks: 172686
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.821276
+Average access time (AAT): 84.127577
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 126143
+Writes: 205389
+Write misses: 87108
+Misses: 213251
+Writebacks: 121235
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.420248
+Average access time (AAT): 44.024787
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 145971
+Writes: 205389
+Write misses: 95409
+Misses: 241380
+Writebacks: 130726
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.475681
+Average access time (AAT): 49.568092
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 165553
+Writes: 205389
+Write misses: 103545
+Misses: 269098
+Writebacks: 136845
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.530304
+Average access time (AAT): 55.030402
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 189062
+Writes: 205389
+Write misses: 116735
+Misses: 305797
+Writebacks: 146522
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.602626
+Average access time (AAT): 62.262572
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 211979
+Writes: 205389
+Write misses: 135607
+Misses: 347586
+Writebacks: 157696
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.684978
+Average access time (AAT): 70.497816
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 228601
+Writes: 205389
+Write misses: 147583
+Misses: 376184
+Writebacks: 162432
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.741335
+Average access time (AAT): 76.133545
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 237077
+Writes: 205389
+Write misses: 153264
+Misses: 390341
+Writebacks: 164377
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.769234
+Average access time (AAT): 78.923426
+-----------------------------
+Cache Settings
+C: 9
+B: 2
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 207485
+Writes: 205389
+Write misses: 131400
+Misses: 338885
+Writebacks: 143140
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.667831
+Average access time (AAT): 68.783133
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 95811
+Writes: 205389
+Write misses: 68436
+Misses: 164247
+Writebacks: 94101
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.323677
+Average access time (AAT): 34.367704
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 105878
+Writes: 205389
+Write misses: 68042
+Misses: 173920
+Writebacks: 92849
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.342739
+Average access time (AAT): 36.273935
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 118971
+Writes: 205389
+Write misses: 73136
+Misses: 192107
+Writebacks: 97586
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.378580
+Average access time (AAT): 39.857997
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 135833
+Writes: 205389
+Write misses: 81571
+Misses: 217404
+Writebacks: 108158
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.428432
+Average access time (AAT): 44.843207
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 150578
+Writes: 205389
+Write misses: 91856
+Misses: 242434
+Writebacks: 113966
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.477758
+Average access time (AAT): 49.775801
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 166721
+Writes: 205389
+Write misses: 105578
+Misses: 272299
+Writebacks: 123608
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.536612
+Average access time (AAT): 55.661214
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 177885
+Writes: 205389
+Write misses: 117884
+Misses: 295769
+Writebacks: 131457
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.582864
+Average access time (AAT): 60.286382
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 188230
+Writes: 205389
+Write misses: 122083
+Misses: 310313
+Writebacks: 131615
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.611525
+Average access time (AAT): 63.152528
+-----------------------------
+Cache Settings
+C: 10
+B: 2
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 165892
+Writes: 205389
+Write misses: 100468
+Misses: 266360
+Writebacks: 110342
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.524908
+Average access time (AAT): 54.490831
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 76094
+Writes: 205389
+Write misses: 55444
+Misses: 131538
+Writebacks: 75812
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.259218
+Average access time (AAT): 27.921831
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 71149
+Writes: 205389
+Write misses: 48776
+Misses: 119925
+Writebacks: 65186
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.236333
+Average access time (AAT): 25.633289
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 77458
+Writes: 205389
+Write misses: 49589
+Misses: 127047
+Writebacks: 65504
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.250368
+Average access time (AAT): 27.036802
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 86980
+Writes: 205389
+Write misses: 52067
+Misses: 139047
+Writebacks: 68497
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.274016
+Average access time (AAT): 29.401609
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 98659
+Writes: 205389
+Write misses: 59525
+Misses: 158184
+Writebacks: 75581
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.311729
+Average access time (AAT): 33.172885
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 105973
+Writes: 205389
+Write misses: 66025
+Misses: 171998
+Writebacks: 80784
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.338952
+Average access time (AAT): 35.895172
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 122780
+Writes: 205389
+Write misses: 75474
+Misses: 198254
+Writebacks: 88717
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.390694
+Average access time (AAT): 41.069370
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 136448
+Writes: 205389
+Write misses: 84512
+Misses: 220960
+Writebacks: 94967
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.435440
+Average access time (AAT): 45.543979
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 144990
+Writes: 205389
+Write misses: 89402
+Misses: 234392
+Writebacks: 97927
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.461910
+Average access time (AAT): 48.190986
+-----------------------------
+Cache Settings
+C: 11
+B: 2
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 129732
+Writes: 205389
+Write misses: 80800
+Misses: 210532
+Writebacks: 88140
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.414890
+Average access time (AAT): 43.488961
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 60004
+Writes: 205389
+Write misses: 45951
+Misses: 105955
+Writebacks: 61214
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.208803
+Average access time (AAT): 22.880260
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53320
+Writes: 205389
+Write misses: 36357
+Misses: 89677
+Writebacks: 47383
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.176724
+Average access time (AAT): 19.672399
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 54353
+Writes: 205389
+Write misses: 35763
+Misses: 90116
+Writebacks: 46449
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.177589
+Average access time (AAT): 19.758912
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 55434
+Writes: 205389
+Write misses: 35238
+Misses: 90672
+Writebacks: 44738
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.178685
+Average access time (AAT): 19.868481
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 59700
+Writes: 205389
+Write misses: 36952
+Misses: 96652
+Writebacks: 47001
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.190469
+Average access time (AAT): 21.046943
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 63810
+Writes: 205389
+Write misses: 40556
+Misses: 104366
+Writebacks: 50733
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.205671
+Average access time (AAT): 22.567120
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 74902
+Writes: 205389
+Write misses: 47767
+Misses: 122669
+Writebacks: 58055
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.241740
+Average access time (AAT): 26.174042
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 84360
+Writes: 205389
+Write misses: 53861
+Misses: 138221
+Writebacks: 62871
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.272388
+Average access time (AAT): 29.238832
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 97135
+Writes: 205389
+Write misses: 62177
+Misses: 159312
+Writebacks: 69567
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.313952
+Average access time (AAT): 33.395177
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 105656
+Writes: 205389
+Write misses: 66763
+Misses: 172419
+Writebacks: 72122
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.339781
+Average access time (AAT): 35.978137
+-----------------------------
+Cache Settings
+C: 12
+B: 2
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 94798
+Writes: 205389
+Write misses: 59743
+Misses: 154541
+Writebacks: 65451
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.304550
+Average access time (AAT): 32.454969
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 47812
+Writes: 205389
+Write misses: 39504
+Misses: 87316
+Writebacks: 50687
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.172071
+Average access time (AAT): 19.207124
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 39857
+Writes: 205389
+Write misses: 28128
+Misses: 67985
+Writebacks: 34937
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.133976
+Average access time (AAT): 15.397617
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38630
+Writes: 205389
+Write misses: 25276
+Misses: 63906
+Writebacks: 31263
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.125938
+Average access time (AAT): 14.593779
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38654
+Writes: 205389
+Write misses: 24983
+Misses: 63637
+Writebacks: 30332
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.125408
+Average access time (AAT): 14.540768
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 39551
+Writes: 205389
+Write misses: 24838
+Misses: 64389
+Writebacks: 30097
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.126890
+Average access time (AAT): 14.688963
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 41491
+Writes: 205389
+Write misses: 25023
+Misses: 66514
+Writebacks: 30404
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.131077
+Average access time (AAT): 15.107731
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 43718
+Writes: 205389
+Write misses: 26119
+Misses: 69837
+Writebacks: 31616
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.137626
+Average access time (AAT): 15.762585
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 48551
+Writes: 205389
+Write misses: 28889
+Misses: 77440
+Writebacks: 34447
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.152609
+Average access time (AAT): 17.260887
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53741
+Writes: 205389
+Write misses: 31827
+Misses: 85568
+Writebacks: 37369
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.168627
+Average access time (AAT): 18.862650
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 58953
+Writes: 205389
+Write misses: 36164
+Misses: 95117
+Writebacks: 40638
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.187444
+Average access time (AAT): 20.744445
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 73953
+Writes: 205389
+Write misses: 45136
+Misses: 119089
+Writebacks: 49167
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.234685
+Average access time (AAT): 25.468541
+-----------------------------
+Cache Settings
+C: 13
+B: 2
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 55715
+Writes: 205389
+Write misses: 33700
+Misses: 89415
+Writebacks: 36384
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.176208
+Average access time (AAT): 19.620768
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 35002
+Writes: 205389
+Write misses: 29420
+Misses: 64422
+Writebacks: 36888
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.126955
+Average access time (AAT): 14.695466
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31026
+Writes: 205389
+Write misses: 22134
+Misses: 53160
+Writebacks: 26541
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.104761
+Average access time (AAT): 12.476095
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27705
+Writes: 205389
+Write misses: 18936
+Misses: 46641
+Writebacks: 21391
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.091914
+Average access time (AAT): 11.191413
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 26723
+Writes: 205389
+Write misses: 17514
+Misses: 44237
+Writebacks: 19497
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.087177
+Average access time (AAT): 10.717664
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 26882
+Writes: 205389
+Write misses: 16815
+Misses: 43697
+Writebacks: 18414
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.086112
+Average access time (AAT): 10.611247
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27539
+Writes: 205389
+Write misses: 16652
+Misses: 44191
+Writebacks: 18190
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.087086
+Average access time (AAT): 10.708599
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28389
+Writes: 205389
+Write misses: 16479
+Misses: 44868
+Writebacks: 18073
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.088420
+Average access time (AAT): 10.842013
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 30053
+Writes: 205389
+Write misses: 16813
+Misses: 46866
+Writebacks: 18507
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.092358
+Average access time (AAT): 11.235754
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31106
+Writes: 205389
+Write misses: 17158
+Misses: 48264
+Writebacks: 18803
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.095113
+Average access time (AAT): 11.511254
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 32982
+Writes: 205389
+Write misses: 18354
+Misses: 51336
+Writebacks: 19563
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.101166
+Average access time (AAT): 12.116644
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 34423
+Writes: 205389
+Write misses: 19673
+Misses: 54096
+Writebacks: 20348
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.106605
+Average access time (AAT): 12.660550
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38961
+Writes: 205389
+Write misses: 23150
+Misses: 62111
+Writebacks: 22228
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.122400
+Average access time (AAT): 14.240044
+-----------------------------
+Cache Settings
+C: 14
+B: 2
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 33858
+Writes: 205389
+Write misses: 19679
+Misses: 53537
+Writebacks: 17766
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.105504
+Average access time (AAT): 12.550389
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27099
+Writes: 205389
+Write misses: 21701
+Misses: 48800
+Writebacks: 26502
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.096169
+Average access time (AAT): 11.616882
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21904
+Writes: 205389
+Write misses: 15295
+Misses: 37199
+Writebacks: 17090
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.073307
+Average access time (AAT): 9.330704
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19982
+Writes: 205389
+Write misses: 12786
+Misses: 32768
+Writebacks: 12791
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.064575
+Average access time (AAT): 8.457499
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16183
+Writes: 205389
+Write misses: 12223
+Misses: 28406
+Writebacks: 10553
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.055979
+Average access time (AAT): 7.597892
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15089
+Writes: 205389
+Write misses: 11565
+Misses: 26654
+Writebacks: 9240
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.052526
+Average access time (AAT): 7.252630
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15149
+Writes: 205389
+Write misses: 11388
+Misses: 26537
+Writebacks: 8790
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.052296
+Average access time (AAT): 7.229573
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15531
+Writes: 205389
+Write misses: 11214
+Misses: 26745
+Writebacks: 8535
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.052706
+Average access time (AAT): 7.270563
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16381
+Writes: 205389
+Write misses: 11085
+Misses: 27466
+Writebacks: 8391
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.054126
+Average access time (AAT): 7.412649
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17281
+Writes: 205389
+Write misses: 10951
+Misses: 28232
+Writebacks: 8220
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.055636
+Average access time (AAT): 7.563602
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18217
+Writes: 205389
+Write misses: 10974
+Misses: 29191
+Writebacks: 8230
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.057526
+Average access time (AAT): 7.752590
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19018
+Writes: 205389
+Write misses: 11231
+Misses: 30249
+Writebacks: 8498
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.059611
+Average access time (AAT): 7.961087
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19759
+Writes: 205389
+Write misses: 11402
+Misses: 31161
+Writebacks: 8647
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.061408
+Average access time (AAT): 8.140812
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18514
+Writes: 205389
+Write misses: 12880
+Misses: 31394
+Writebacks: 10082
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.061867
+Average access time (AAT): 8.186729
+-----------------------------
+Cache Settings
+C: 15
+B: 2
+S: 13
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 6850
+Writes: 205389
+Write misses: 4933
+Misses: 11783
+Writebacks: 920
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.023220
+Average access time (AAT): 4.322043
+-----------------------------
+Cache Settings
+C: 3
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 290316
+Writes: 205389
+Write misses: 184899
+Misses: 475215
+Writebacks: 201492
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.936493
+Average access time (AAT): 95.649311
+-----------------------------
+Cache Settings
+C: 4
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 279369
+Writes: 205389
+Write misses: 176997
+Misses: 456366
+Writebacks: 198626
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.899348
+Average access time (AAT): 91.934790
+-----------------------------
+Cache Settings
+C: 4
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 289902
+Writes: 205389
+Write misses: 184788
+Misses: 474690
+Writebacks: 201381
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.935459
+Average access time (AAT): 95.545851
+-----------------------------
+Cache Settings
+C: 5
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 262712
+Writes: 205389
+Write misses: 161833
+Misses: 424545
+Writebacks: 193819
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.836639
+Average access time (AAT): 85.663914
+-----------------------------
+Cache Settings
+C: 5
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 276800
+Writes: 205389
+Write misses: 174948
+Misses: 451748
+Writebacks: 196911
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.890247
+Average access time (AAT): 91.024734
+-----------------------------
+Cache Settings
+C: 5
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 288775
+Writes: 205389
+Write misses: 183668
+Misses: 472443
+Writebacks: 200272
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.931030
+Average access time (AAT): 95.103041
+-----------------------------
+Cache Settings
+C: 6
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 236748
+Writes: 205389
+Write misses: 142000
+Misses: 378748
+Writebacks: 183903
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.746388
+Average access time (AAT): 76.638825
+-----------------------------
+Cache Settings
+C: 6
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 257964
+Writes: 205389
+Write misses: 158647
+Misses: 416611
+Writebacks: 189781
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.821004
+Average access time (AAT): 84.100382
+-----------------------------
+Cache Settings
+C: 6
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 271572
+Writes: 205389
+Write misses: 173817
+Misses: 445389
+Writebacks: 191928
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.877716
+Average access time (AAT): 89.771583
+-----------------------------
+Cache Settings
+C: 6
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 287189
+Writes: 205389
+Write misses: 182583
+Misses: 469772
+Writebacks: 199114
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.925767
+Average access time (AAT): 94.576674
+-----------------------------
+Cache Settings
+C: 7
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 202954
+Writes: 205389
+Write misses: 124989
+Misses: 327943
+Writebacks: 171267
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.646268
+Average access time (AAT): 66.626824
+-----------------------------
+Cache Settings
+C: 7
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 230474
+Writes: 205389
+Write misses: 140669
+Misses: 371143
+Writebacks: 177702
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.731401
+Average access time (AAT): 75.140129
+-----------------------------
+Cache Settings
+C: 7
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 254710
+Writes: 205389
+Write misses: 156515
+Misses: 411225
+Writebacks: 187239
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.810390
+Average access time (AAT): 83.038978
+-----------------------------
+Cache Settings
+C: 7
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 265745
+Writes: 205389
+Write misses: 169033
+Misses: 434778
+Writebacks: 186464
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.856805
+Average access time (AAT): 87.680503
+-----------------------------
+Cache Settings
+C: 7
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 279553
+Writes: 205389
+Write misses: 179729
+Misses: 459282
+Writebacks: 192365
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.905094
+Average access time (AAT): 92.509439
+-----------------------------
+Cache Settings
+C: 8
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 163846
+Writes: 205389
+Write misses: 105759
+Misses: 269605
+Writebacks: 148009
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.531303
+Average access time (AAT): 55.130315
+-----------------------------
+Cache Settings
+C: 8
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 191893
+Writes: 205389
+Write misses: 119774
+Misses: 311667
+Writebacks: 159767
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.614194
+Average access time (AAT): 63.419357
+-----------------------------
+Cache Settings
+C: 8
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 217137
+Writes: 205389
+Write misses: 131905
+Misses: 349042
+Writebacks: 165360
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.687847
+Average access time (AAT): 70.784745
+-----------------------------
+Cache Settings
+C: 8
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 244378
+Writes: 205389
+Write misses: 149738
+Misses: 394116
+Writebacks: 175717
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.776674
+Average access time (AAT): 79.667354
+-----------------------------
+Cache Settings
+C: 8
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 255698
+Writes: 205389
+Write misses: 162603
+Misses: 418301
+Writebacks: 179485
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.824334
+Average access time (AAT): 84.433426
+-----------------------------
+Cache Settings
+C: 8
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 266432
+Writes: 205389
+Write misses: 170996
+Misses: 437428
+Writebacks: 183352
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.862027
+Average access time (AAT): 88.202731
+-----------------------------
+Cache Settings
+C: 9
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 129204
+Writes: 205389
+Write misses: 85226
+Misses: 214430
+Writebacks: 120707
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.422571
+Average access time (AAT): 44.257129
+-----------------------------
+Cache Settings
+C: 9
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 150820
+Writes: 205389
+Write misses: 93543
+Misses: 244363
+Writebacks: 131036
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.481559
+Average access time (AAT): 50.155943
+-----------------------------
+Cache Settings
+C: 9
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 173084
+Writes: 205389
+Write misses: 103488
+Misses: 276572
+Writebacks: 138432
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.545033
+Average access time (AAT): 56.503282
+-----------------------------
+Cache Settings
+C: 9
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 198947
+Writes: 205389
+Write misses: 116952
+Misses: 315899
+Writebacks: 147754
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.622533
+Average access time (AAT): 64.253346
+-----------------------------
+Cache Settings
+C: 9
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 225342
+Writes: 205389
+Write misses: 137871
+Misses: 363213
+Writebacks: 162462
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.715774
+Average access time (AAT): 73.577385
+-----------------------------
+Cache Settings
+C: 9
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 238914
+Writes: 205389
+Write misses: 152288
+Misses: 391202
+Writebacks: 167839
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.770931
+Average access time (AAT): 79.093100
+-----------------------------
+Cache Settings
+C: 9
+B: 3
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 251316
+Writes: 205389
+Write misses: 157038
+Misses: 408354
+Writebacks: 168434
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.804732
+Average access time (AAT): 82.473198
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 97795
+Writes: 205389
+Write misses: 66350
+Misses: 164145
+Writebacks: 93228
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.323476
+Average access time (AAT): 34.347603
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 109775
+Writes: 205389
+Write misses: 66194
+Misses: 175969
+Writebacks: 93560
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.346777
+Average access time (AAT): 36.677726
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 125676
+Writes: 205389
+Write misses: 73217
+Misses: 198893
+Writebacks: 101563
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.391953
+Average access time (AAT): 41.195296
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 144067
+Writes: 205389
+Write misses: 81452
+Misses: 225519
+Writebacks: 110554
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.444424
+Average access time (AAT): 46.442408
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 167523
+Writes: 205389
+Write misses: 95126
+Misses: 262649
+Writebacks: 121415
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.517595
+Average access time (AAT): 53.759515
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 180156
+Writes: 205389
+Write misses: 108626
+Misses: 288782
+Writebacks: 128280
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.569095
+Average access time (AAT): 58.909473
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 188736
+Writes: 205389
+Write misses: 120921
+Misses: 309657
+Writebacks: 135431
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.610233
+Average access time (AAT): 63.023252
+-----------------------------
+Cache Settings
+C: 10
+B: 3
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 198956
+Writes: 205389
+Write misses: 123488
+Misses: 322444
+Writebacks: 134834
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.635432
+Average access time (AAT): 65.543151
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 74992
+Writes: 205389
+Write misses: 53388
+Misses: 128380
+Writebacks: 72345
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.252995
+Average access time (AAT): 27.299493
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 75082
+Writes: 205389
+Write misses: 47379
+Misses: 122461
+Writebacks: 65413
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.241331
+Average access time (AAT): 26.133052
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 81947
+Writes: 205389
+Write misses: 48593
+Misses: 130540
+Writebacks: 66700
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.257252
+Average access time (AAT): 27.725158
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 93627
+Writes: 205389
+Write misses: 52546
+Misses: 146173
+Writebacks: 71701
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.288059
+Average access time (AAT): 30.805910
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 110462
+Writes: 205389
+Write misses: 62752
+Misses: 173214
+Writebacks: 83430
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.341348
+Average access time (AAT): 36.134806
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 118941
+Writes: 205389
+Write misses: 68397
+Misses: 187338
+Writebacks: 85508
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.369182
+Average access time (AAT): 38.918184
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 132893
+Writes: 205389
+Write misses: 77140
+Misses: 210033
+Writebacks: 92094
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.413906
+Average access time (AAT): 43.390625
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 150390
+Writes: 205389
+Write misses: 86303
+Misses: 236693
+Writebacks: 98558
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.466444
+Average access time (AAT): 48.644437
+-----------------------------
+Cache Settings
+C: 11
+B: 3
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 157651
+Writes: 205389
+Write misses: 90681
+Misses: 248332
+Writebacks: 100669
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.489381
+Average access time (AAT): 50.938103
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 58364
+Writes: 205389
+Write misses: 44820
+Misses: 103184
+Writebacks: 58333
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.203342
+Average access time (AAT): 22.334187
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 52117
+Writes: 205389
+Write misses: 35147
+Misses: 87264
+Writebacks: 44893
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.171969
+Average access time (AAT): 19.196876
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 56579
+Writes: 205389
+Write misses: 35087
+Misses: 91666
+Writebacks: 47065
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.180644
+Average access time (AAT): 20.064366
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 59548
+Writes: 205389
+Write misses: 35222
+Misses: 94770
+Writebacks: 46888
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.186761
+Average access time (AAT): 20.676063
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 63958
+Writes: 205389
+Write misses: 37705
+Misses: 101663
+Writebacks: 49644
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.200344
+Average access time (AAT): 22.034447
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 71934
+Writes: 205389
+Write misses: 42871
+Misses: 114805
+Writebacks: 55499
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.226243
+Average access time (AAT): 24.624305
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 86084
+Writes: 205389
+Write misses: 50838
+Misses: 136922
+Writebacks: 63907
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.269828
+Average access time (AAT): 28.982841
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 99416
+Writes: 205389
+Write misses: 58723
+Misses: 158139
+Writebacks: 70371
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.311640
+Average access time (AAT): 33.164017
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 111367
+Writes: 205389
+Write misses: 67036
+Misses: 178403
+Writebacks: 76776
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.351574
+Average access time (AAT): 37.157388
+-----------------------------
+Cache Settings
+C: 12
+B: 3
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 120148
+Writes: 205389
+Write misses: 72209
+Misses: 192357
+Writebacks: 79656
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.379073
+Average access time (AAT): 39.907264
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 46335
+Writes: 205389
+Write misses: 39302
+Misses: 85637
+Writebacks: 48869
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.168762
+Average access time (AAT): 18.876248
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 39089
+Writes: 205389
+Write misses: 28726
+Misses: 67815
+Writebacks: 34032
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.133641
+Average access time (AAT): 15.364115
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38836
+Writes: 205389
+Write misses: 26360
+Misses: 65196
+Writebacks: 31186
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.128480
+Average access time (AAT): 14.847996
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 42760
+Writes: 205389
+Write misses: 25707
+Misses: 68467
+Writebacks: 32564
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.134926
+Average access time (AAT): 15.492603
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 44454
+Writes: 205389
+Write misses: 25745
+Misses: 70199
+Writebacks: 32568
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.138339
+Average access time (AAT): 15.833924
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 47530
+Writes: 205389
+Write misses: 27219
+Misses: 74749
+Writebacks: 34517
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.147306
+Average access time (AAT): 16.730580
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 50834
+Writes: 205389
+Write misses: 29205
+Misses: 80039
+Writebacks: 36754
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.157731
+Average access time (AAT): 17.773065
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 55682
+Writes: 205389
+Write misses: 32295
+Misses: 87977
+Writebacks: 39802
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.173374
+Average access time (AAT): 19.337385
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 63195
+Writes: 205389
+Write misses: 36527
+Misses: 99722
+Writebacks: 43635
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.196519
+Average access time (AAT): 21.651940
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 70604
+Writes: 205389
+Write misses: 41812
+Misses: 112416
+Writebacks: 47994
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.221535
+Average access time (AAT): 24.153511
+-----------------------------
+Cache Settings
+C: 13
+B: 3
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 79449
+Writes: 205389
+Write misses: 46199
+Misses: 125648
+Writebacks: 51194
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.247611
+Average access time (AAT): 26.761105
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 33662
+Writes: 205389
+Write misses: 30278
+Misses: 63940
+Writebacks: 36185
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.126005
+Average access time (AAT): 14.600480
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 30219
+Writes: 205389
+Write misses: 23779
+Misses: 53998
+Writebacks: 26741
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.106412
+Average access time (AAT): 12.641237
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27515
+Writes: 205389
+Write misses: 20712
+Misses: 48227
+Writebacks: 21932
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.095040
+Average access time (AAT): 11.503962
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27413
+Writes: 205389
+Write misses: 19637
+Misses: 47050
+Writebacks: 20548
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.092720
+Average access time (AAT): 11.272014
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 30224
+Writes: 205389
+Write misses: 19084
+Misses: 49308
+Writebacks: 22159
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.097170
+Average access time (AAT): 11.716992
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31023
+Writes: 205389
+Write misses: 19001
+Misses: 50024
+Writebacks: 21957
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.098581
+Average access time (AAT): 11.858092
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 32188
+Writes: 205389
+Write misses: 18870
+Misses: 51058
+Writebacks: 21818
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.100619
+Average access time (AAT): 12.061859
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 33782
+Writes: 205389
+Write misses: 19027
+Misses: 52809
+Writebacks: 22063
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.104069
+Average access time (AAT): 12.406924
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 34890
+Writes: 205389
+Write misses: 19518
+Misses: 54408
+Writebacks: 22562
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.107220
+Average access time (AAT): 12.722035
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 37148
+Writes: 205389
+Write misses: 20769
+Misses: 57917
+Writebacks: 23645
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.114135
+Average access time (AAT): 13.413544
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 41003
+Writes: 205389
+Write misses: 22400
+Misses: 63403
+Writebacks: 24898
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.124947
+Average access time (AAT): 14.494655
+-----------------------------
+Cache Settings
+C: 14
+B: 3
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 46017
+Writes: 205389
+Write misses: 25134
+Misses: 71151
+Writebacks: 26582
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.140215
+Average access time (AAT): 16.021532
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 24943
+Writes: 205389
+Write misses: 23529
+Misses: 48472
+Writebacks: 26887
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.095522
+Average access time (AAT): 11.552244
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 20053
+Writes: 205389
+Write misses: 17183
+Misses: 37236
+Writebacks: 17601
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.073380
+Average access time (AAT): 9.337996
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18736
+Writes: 205389
+Write misses: 14204
+Misses: 32940
+Writebacks: 13328
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.064914
+Average access time (AAT): 8.491395
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16386
+Writes: 205389
+Write misses: 12483
+Misses: 28869
+Writebacks: 10931
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.056891
+Average access time (AAT): 7.689134
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15791
+Writes: 205389
+Write misses: 11324
+Misses: 27115
+Writebacks: 9588
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.053435
+Average access time (AAT): 7.343478
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16495
+Writes: 205389
+Write misses: 11128
+Misses: 27623
+Writebacks: 9517
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.054436
+Average access time (AAT): 7.443589
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16960
+Writes: 205389
+Write misses: 11003
+Misses: 27963
+Writebacks: 9387
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.055106
+Average access time (AAT): 7.510591
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17707
+Writes: 205389
+Write misses: 10882
+Misses: 28589
+Writebacks: 9241
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.056340
+Average access time (AAT): 7.633955
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19027
+Writes: 205389
+Write misses: 10759
+Misses: 29786
+Writebacks: 9087
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.058698
+Average access time (AAT): 7.869845
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 20121
+Writes: 205389
+Write misses: 10741
+Misses: 30862
+Writebacks: 9048
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.060819
+Average access time (AAT): 8.081889
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21275
+Writes: 205389
+Write misses: 10871
+Misses: 32146
+Writebacks: 9157
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.063349
+Average access time (AAT): 8.334924
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 22156
+Writes: 205389
+Write misses: 11127
+Misses: 33283
+Writebacks: 9376
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.065590
+Average access time (AAT): 8.558989
+-----------------------------
+Cache Settings
+C: 15
+B: 3
+S: 12
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21504
+Writes: 205389
+Write misses: 13027
+Misses: 34531
+Writebacks: 11416
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.068049
+Average access time (AAT): 8.804929
+-----------------------------
+Cache Settings
+C: 4
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 248086
+Writes: 205389
+Write misses: 150922
+Misses: 399008
+Writebacks: 167753
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.786314
+Average access time (AAT): 80.631407
+-----------------------------
+Cache Settings
+C: 5
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 230339
+Writes: 205389
+Write misses: 131537
+Misses: 361876
+Writebacks: 153975
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.713139
+Average access time (AAT): 73.313906
+-----------------------------
+Cache Settings
+C: 5
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 246668
+Writes: 205389
+Write misses: 150569
+Misses: 397237
+Writebacks: 167306
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.782824
+Average access time (AAT): 80.282401
+-----------------------------
+Cache Settings
+C: 6
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 209351
+Writes: 205389
+Write misses: 108370
+Misses: 317721
+Writebacks: 138263
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.626124
+Average access time (AAT): 64.612402
+-----------------------------
+Cache Settings
+C: 6
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 228948
+Writes: 205389
+Write misses: 130744
+Misses: 359692
+Writebacks: 153241
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.708835
+Average access time (AAT): 72.883512
+-----------------------------
+Cache Settings
+C: 6
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 245802
+Writes: 205389
+Write misses: 148976
+Misses: 394778
+Writebacks: 165823
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.777978
+Average access time (AAT): 79.797813
+-----------------------------
+Cache Settings
+C: 7
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 181495
+Writes: 205389
+Write misses: 93315
+Misses: 274810
+Writebacks: 127573
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.541560
+Average access time (AAT): 56.156050
+-----------------------------
+Cache Settings
+C: 7
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 206425
+Writes: 205389
+Write misses: 106401
+Misses: 312826
+Writebacks: 135811
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.616478
+Average access time (AAT): 63.647758
+-----------------------------
+Cache Settings
+C: 7
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 225948
+Writes: 205389
+Write misses: 127793
+Misses: 353741
+Writebacks: 150188
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.697108
+Average access time (AAT): 71.710764
+-----------------------------
+Cache Settings
+C: 7
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 243467
+Writes: 205389
+Write misses: 146339
+Misses: 389806
+Writebacks: 163165
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.768180
+Average access time (AAT): 78.817995
+-----------------------------
+Cache Settings
+C: 8
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 152528
+Writes: 205389
+Write misses: 78641
+Misses: 231169
+Writebacks: 112773
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.455558
+Average access time (AAT): 47.555838
+-----------------------------
+Cache Settings
+C: 8
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 176111
+Writes: 205389
+Write misses: 88660
+Misses: 264771
+Writebacks: 121621
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.521777
+Average access time (AAT): 54.177692
+-----------------------------
+Cache Settings
+C: 8
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 197866
+Writes: 205389
+Write misses: 100373
+Misses: 298239
+Writebacks: 127860
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.587731
+Average access time (AAT): 60.773138
+-----------------------------
+Cache Settings
+C: 8
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 214218
+Writes: 205389
+Write misses: 120742
+Misses: 334960
+Writebacks: 138313
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.660096
+Average access time (AAT): 68.009644
+-----------------------------
+Cache Settings
+C: 8
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 238223
+Writes: 205389
+Write misses: 142041
+Misses: 380264
+Writebacks: 158760
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.749376
+Average access time (AAT): 76.937579
+-----------------------------
+Cache Settings
+C: 9
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 122350
+Writes: 205389
+Write misses: 64064
+Misses: 186414
+Writebacks: 95027
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.367361
+Average access time (AAT): 38.736093
+-----------------------------
+Cache Settings
+C: 9
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 141226
+Writes: 205389
+Write misses: 68467
+Misses: 209693
+Writebacks: 98985
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.413236
+Average access time (AAT): 43.323622
+-----------------------------
+Cache Settings
+C: 9
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 160692
+Writes: 205389
+Write misses: 76281
+Misses: 236973
+Writebacks: 105194
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.466996
+Average access time (AAT): 48.699616
+-----------------------------
+Cache Settings
+C: 9
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 179672
+Writes: 205389
+Write misses: 91024
+Misses: 270696
+Writebacks: 113518
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.533453
+Average access time (AAT): 55.345315
+-----------------------------
+Cache Settings
+C: 9
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 200091
+Writes: 205389
+Write misses: 109294
+Misses: 309385
+Writebacks: 126252
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.609696
+Average access time (AAT): 62.969650
+-----------------------------
+Cache Settings
+C: 9
+B: 4
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 222271
+Writes: 205389
+Write misses: 125714
+Misses: 347985
+Writebacks: 142117
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.685764
+Average access time (AAT): 70.576445
+-----------------------------
+Cache Settings
+C: 10
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 92676
+Writes: 205389
+Write misses: 49223
+Misses: 141899
+Writebacks: 73705
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.279636
+Average access time (AAT): 29.963645
+-----------------------------
+Cache Settings
+C: 10
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 104334
+Writes: 205389
+Write misses: 48925
+Misses: 153259
+Writebacks: 72555
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.302023
+Average access time (AAT): 32.202329
+-----------------------------
+Cache Settings
+C: 10
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 122148
+Writes: 205389
+Write misses: 56570
+Misses: 178718
+Writebacks: 79898
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.352195
+Average access time (AAT): 37.219464
+-----------------------------
+Cache Settings
+C: 10
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 139323
+Writes: 205389
+Write misses: 63080
+Misses: 202403
+Writebacks: 84910
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.398870
+Average access time (AAT): 41.887002
+-----------------------------
+Cache Settings
+C: 10
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 155804
+Writes: 205389
+Write misses: 72973
+Misses: 228777
+Writebacks: 91462
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.450845
+Average access time (AAT): 47.084453
+-----------------------------
+Cache Settings
+C: 10
+B: 4
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 174970
+Writes: 205389
+Write misses: 86662
+Misses: 261632
+Writebacks: 101351
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.515591
+Average access time (AAT): 53.559098
+-----------------------------
+Cache Settings
+C: 10
+B: 4
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 188864
+Writes: 205389
+Write misses: 97195
+Misses: 286059
+Writebacks: 108847
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.563729
+Average access time (AAT): 58.372859
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 71928
+Writes: 205389
+Write misses: 39368
+Misses: 111296
+Writebacks: 58059
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.219328
+Average access time (AAT): 23.932796
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 74634
+Writes: 205389
+Write misses: 34870
+Misses: 109504
+Writebacks: 52100
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.215797
+Average access time (AAT): 23.579652
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 87252
+Writes: 205389
+Write misses: 36864
+Misses: 124116
+Writebacks: 55141
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.244592
+Average access time (AAT): 26.459198
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 93355
+Writes: 205389
+Write misses: 41478
+Misses: 134833
+Writebacks: 58525
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.265712
+Average access time (AAT): 28.571168
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 107868
+Writes: 205389
+Write misses: 47306
+Misses: 155174
+Writebacks: 64447
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.305797
+Average access time (AAT): 32.579713
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 125147
+Writes: 205389
+Write misses: 57194
+Misses: 182341
+Writebacks: 73094
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.359334
+Average access time (AAT): 37.933439
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 141843
+Writes: 205389
+Write misses: 66178
+Misses: 208021
+Writebacks: 78671
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.409941
+Average access time (AAT): 42.994125
+-----------------------------
+Cache Settings
+C: 11
+B: 4
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 152528
+Writes: 205389
+Write misses: 72114
+Misses: 224642
+Writebacks: 82024
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.442696
+Average access time (AAT): 46.269580
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 55476
+Writes: 205389
+Write misses: 32467
+Misses: 87943
+Writebacks: 46502
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.173307
+Average access time (AAT): 19.330685
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53704
+Writes: 205389
+Write misses: 27335
+Misses: 81039
+Writebacks: 38184
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.159701
+Average access time (AAT): 17.970132
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 59476
+Writes: 205389
+Write misses: 27370
+Misses: 86846
+Writebacks: 39537
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.171145
+Average access time (AAT): 19.114502
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 63457
+Writes: 205389
+Write misses: 28124
+Misses: 91581
+Writebacks: 40246
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.180476
+Average access time (AAT): 20.047615
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 70674
+Writes: 205389
+Write misses: 31895
+Misses: 102569
+Writebacks: 43263
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.202130
+Average access time (AAT): 22.212990
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 81611
+Writes: 205389
+Write misses: 36684
+Misses: 118295
+Writebacks: 48739
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.233121
+Average access time (AAT): 25.312070
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 90247
+Writes: 205389
+Write misses: 42246
+Misses: 132493
+Writebacks: 52893
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.261100
+Average access time (AAT): 28.110031
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 100608
+Writes: 205389
+Write misses: 51086
+Misses: 151694
+Writebacks: 60372
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.298939
+Average access time (AAT): 31.893919
+-----------------------------
+Cache Settings
+C: 12
+B: 4
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 113056
+Writes: 205389
+Write misses: 56326
+Misses: 169382
+Writebacks: 64132
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.333796
+Average access time (AAT): 35.379644
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 43733
+Writes: 205389
+Write misses: 28506
+Misses: 72239
+Writebacks: 38658
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.142359
+Average access time (AAT): 16.235941
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 37648
+Writes: 205389
+Write misses: 20539
+Misses: 58187
+Writebacks: 26899
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.114668
+Average access time (AAT): 13.466752
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38049
+Writes: 205389
+Write misses: 19382
+Misses: 57431
+Writebacks: 25267
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.113178
+Average access time (AAT): 13.317769
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 41034
+Writes: 205389
+Write misses: 19490
+Misses: 60524
+Writebacks: 26146
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.119273
+Average access time (AAT): 13.927298
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 44626
+Writes: 205389
+Write misses: 20026
+Misses: 64652
+Writebacks: 26926
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.127408
+Average access time (AAT): 14.740792
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 47766
+Writes: 205389
+Write misses: 21596
+Misses: 69362
+Writebacks: 28825
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.136690
+Average access time (AAT): 15.668978
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 51811
+Writes: 205389
+Write misses: 24195
+Misses: 76006
+Writebacks: 31489
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.149783
+Average access time (AAT): 16.978293
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 58882
+Writes: 205389
+Write misses: 27848
+Misses: 86730
+Writebacks: 35336
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.170916
+Average access time (AAT): 19.091642
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 68272
+Writes: 205389
+Write misses: 34815
+Misses: 103087
+Writebacks: 41629
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.203151
+Average access time (AAT): 22.315071
+-----------------------------
+Cache Settings
+C: 13
+B: 4
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 78271
+Writes: 205389
+Write misses: 41512
+Misses: 119783
+Writebacks: 47446
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.236053
+Average access time (AAT): 25.605306
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31825
+Writes: 205389
+Write misses: 22504
+Misses: 54329
+Writebacks: 29118
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.107065
+Average access time (AAT): 12.706466
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28931
+Writes: 205389
+Write misses: 17702
+Misses: 46633
+Writebacks: 21920
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.091898
+Average access time (AAT): 11.189837
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 26717
+Writes: 205389
+Write misses: 15442
+Misses: 42159
+Writebacks: 18016
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.083082
+Average access time (AAT): 10.308158
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 26559
+Writes: 205389
+Write misses: 14889
+Misses: 41448
+Writebacks: 17209
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.081680
+Average access time (AAT): 10.168043
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28674
+Writes: 205389
+Write misses: 14723
+Misses: 43397
+Writebacks: 18136
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.085521
+Average access time (AAT): 10.552127
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 30451
+Writes: 205389
+Write misses: 14855
+Misses: 45306
+Writebacks: 18223
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.089283
+Average access time (AAT): 10.928329
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 31880
+Writes: 205389
+Write misses: 15331
+Misses: 47211
+Writebacks: 18816
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.093037
+Average access time (AAT): 11.303742
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 34021
+Writes: 205389
+Write misses: 15961
+Misses: 49982
+Writebacks: 19513
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.098498
+Average access time (AAT): 11.849815
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 36066
+Writes: 205389
+Write misses: 16711
+Misses: 52777
+Writebacks: 20218
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.104006
+Average access time (AAT): 12.400618
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 38987
+Writes: 205389
+Write misses: 18375
+Misses: 57362
+Writebacks: 21603
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.113042
+Average access time (AAT): 13.304171
+-----------------------------
+Cache Settings
+C: 14
+B: 4
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 47124
+Writes: 205389
+Write misses: 20666
+Misses: 67790
+Writebacks: 24968
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.133592
+Average access time (AAT): 15.359189
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 24219
+Writes: 205389
+Write misses: 18195
+Misses: 42414
+Writebacks: 22697
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.083584
+Average access time (AAT): 10.358410
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19775
+Writes: 205389
+Write misses: 13811
+Misses: 33586
+Writebacks: 15655
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.066187
+Average access time (AAT): 8.618700
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18718
+Writes: 205389
+Write misses: 11636
+Misses: 30354
+Writebacks: 12475
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.059818
+Average access time (AAT): 7.981779
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16749
+Writes: 205389
+Write misses: 9848
+Misses: 26597
+Writebacks: 9955
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.052414
+Average access time (AAT): 7.241398
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16240
+Writes: 205389
+Write misses: 8929
+Misses: 25169
+Writebacks: 8869
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.049600
+Average access time (AAT): 6.959985
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17073
+Writes: 205389
+Write misses: 8658
+Misses: 25731
+Writebacks: 8518
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.050707
+Average access time (AAT): 7.070737
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17921
+Writes: 205389
+Write misses: 8681
+Misses: 26602
+Writebacks: 8460
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.052424
+Average access time (AAT): 7.242383
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18652
+Writes: 205389
+Write misses: 8790
+Misses: 27442
+Writebacks: 8522
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.054079
+Average access time (AAT): 7.407919
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19668
+Writes: 205389
+Write misses: 8857
+Misses: 28525
+Writebacks: 8538
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.056213
+Average access time (AAT): 7.621343
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 20624
+Writes: 205389
+Write misses: 8895
+Misses: 29519
+Writebacks: 8496
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.058172
+Average access time (AAT): 7.817228
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21486
+Writes: 205389
+Write misses: 9309
+Misses: 30795
+Writebacks: 8848
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.060687
+Average access time (AAT): 8.068686
+-----------------------------
+Cache Settings
+C: 15
+B: 4
+S: 11
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 22330
+Writes: 205389
+Write misses: 10089
+Misses: 32419
+Writebacks: 9539
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.063887
+Average access time (AAT): 8.388723
+-----------------------------
+Cache Settings
+C: 5
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 226464
+Writes: 205389
+Write misses: 123562
+Misses: 350026
+Writebacks: 140803
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.689787
+Average access time (AAT): 70.978660
+-----------------------------
+Cache Settings
+C: 6
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 205222
+Writes: 205389
+Write misses: 96771
+Misses: 301993
+Writebacks: 119056
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.595129
+Average access time (AAT): 61.512929
+-----------------------------
+Cache Settings
+C: 6
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 226415
+Writes: 205389
+Write misses: 123516
+Misses: 349931
+Writebacks: 140758
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.689599
+Average access time (AAT): 70.959938
+-----------------------------
+Cache Settings
+C: 7
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 179961
+Writes: 205389
+Write misses: 80265
+Misses: 260226
+Writebacks: 107095
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.512820
+Average access time (AAT): 53.282021
+-----------------------------
+Cache Settings
+C: 7
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 202970
+Writes: 205389
+Write misses: 95110
+Misses: 298080
+Writebacks: 116804
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.587418
+Average access time (AAT): 60.741804
+-----------------------------
+Cache Settings
+C: 7
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 226290
+Writes: 205389
+Write misses: 123434
+Misses: 349724
+Writebacks: 140677
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.689191
+Average access time (AAT): 70.919145
+-----------------------------
+Cache Settings
+C: 8
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 153124
+Writes: 205389
+Write misses: 65695
+Misses: 218819
+Writebacks: 94230
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.431221
+Average access time (AAT): 45.122058
+-----------------------------
+Cache Settings
+C: 8
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 173322
+Writes: 205389
+Write misses: 74844
+Misses: 248166
+Writebacks: 100252
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.489054
+Average access time (AAT): 50.905390
+-----------------------------
+Cache Settings
+C: 8
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 195839
+Writes: 205389
+Write misses: 88699
+Misses: 284538
+Writebacks: 109345
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.560731
+Average access time (AAT): 58.073120
+-----------------------------
+Cache Settings
+C: 8
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 218094
+Writes: 205389
+Write misses: 113064
+Misses: 331158
+Writebacks: 130168
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.652604
+Average access time (AAT): 67.260395
+-----------------------------
+Cache Settings
+C: 9
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 123792
+Writes: 205389
+Write misses: 52937
+Misses: 176729
+Writebacks: 80324
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.348275
+Average access time (AAT): 36.827497
+-----------------------------
+Cache Settings
+C: 9
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 142271
+Writes: 205389
+Write misses: 56319
+Misses: 198590
+Writebacks: 81795
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.391356
+Average access time (AAT): 41.135584
+-----------------------------
+Cache Settings
+C: 9
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 161322
+Writes: 205389
+Write misses: 66358
+Misses: 227680
+Writebacks: 89887
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.448683
+Average access time (AAT): 46.868270
+-----------------------------
+Cache Settings
+C: 9
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 183542
+Writes: 205389
+Write misses: 79886
+Misses: 263428
+Writebacks: 99572
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.519130
+Average access time (AAT): 53.913030
+-----------------------------
+Cache Settings
+C: 9
+B: 5
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 207230
+Writes: 205389
+Write misses: 104220
+Misses: 311450
+Writebacks: 121443
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.613766
+Average access time (AAT): 63.376594
+-----------------------------
+Cache Settings
+C: 10
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 96592
+Writes: 205389
+Write misses: 41154
+Misses: 137746
+Writebacks: 64379
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.271452
+Average access time (AAT): 29.145225
+-----------------------------
+Cache Settings
+C: 10
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 110853
+Writes: 205389
+Write misses: 42614
+Misses: 153467
+Writebacks: 65314
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.302433
+Average access time (AAT): 32.243319
+-----------------------------
+Cache Settings
+C: 10
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 127623
+Writes: 205389
+Write misses: 45248
+Misses: 172871
+Writebacks: 68435
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.340672
+Average access time (AAT): 36.067212
+-----------------------------
+Cache Settings
+C: 10
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 146829
+Writes: 205389
+Write misses: 53510
+Misses: 200339
+Writebacks: 75263
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.394803
+Average access time (AAT): 41.480255
+-----------------------------
+Cache Settings
+C: 10
+B: 5
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 167216
+Writes: 205389
+Write misses: 63996
+Misses: 231212
+Writebacks: 82557
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.455643
+Average access time (AAT): 47.564312
+-----------------------------
+Cache Settings
+C: 10
+B: 5
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 183107
+Writes: 205389
+Write misses: 75687
+Misses: 258794
+Writebacks: 91901
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.509998
+Average access time (AAT): 52.999821
+-----------------------------
+Cache Settings
+C: 11
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 71298
+Writes: 205389
+Write misses: 29039
+Misses: 100337
+Writebacks: 47615
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.197731
+Average access time (AAT): 21.773136
+-----------------------------
+Cache Settings
+C: 11
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 78836
+Writes: 205389
+Write misses: 27873
+Misses: 106709
+Writebacks: 45197
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.210288
+Average access time (AAT): 23.028849
+-----------------------------
+Cache Settings
+C: 11
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 92041
+Writes: 205389
+Write misses: 30078
+Misses: 122119
+Writebacks: 46850
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.240657
+Average access time (AAT): 26.065655
+-----------------------------
+Cache Settings
+C: 11
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 103916
+Writes: 205389
+Write misses: 34044
+Misses: 137960
+Writebacks: 50737
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.271874
+Average access time (AAT): 29.187397
+-----------------------------
+Cache Settings
+C: 11
+B: 5
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 122950
+Writes: 205389
+Write misses: 42538
+Misses: 165488
+Writebacks: 57220
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.326123
+Average access time (AAT): 34.612264
+-----------------------------
+Cache Settings
+C: 11
+B: 5
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 135431
+Writes: 205389
+Write misses: 49975
+Misses: 185406
+Writebacks: 61826
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.365374
+Average access time (AAT): 38.537450
+-----------------------------
+Cache Settings
+C: 11
+B: 5
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 148972
+Writes: 205389
+Write misses: 62215
+Misses: 211187
+Writebacks: 72057
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.416180
+Average access time (AAT): 43.618040
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53559
+Writes: 205389
+Write misses: 23874
+Misses: 77433
+Writebacks: 37282
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.152595
+Average access time (AAT): 17.259508
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 55569
+Writes: 205389
+Write misses: 18748
+Misses: 74317
+Writebacks: 30079
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.146454
+Average access time (AAT): 16.645446
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 62115
+Writes: 205389
+Write misses: 21196
+Misses: 83311
+Writebacks: 33358
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.164179
+Average access time (AAT): 18.417869
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 68871
+Writes: 205389
+Write misses: 21360
+Misses: 90231
+Writebacks: 33138
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.177816
+Average access time (AAT): 19.781575
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 78184
+Writes: 205389
+Write misses: 25954
+Misses: 104138
+Writebacks: 38264
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.205222
+Average access time (AAT): 22.522189
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 91796
+Writes: 205389
+Write misses: 32729
+Misses: 124525
+Writebacks: 44397
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.245398
+Average access time (AAT): 26.539799
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 104570
+Writes: 205389
+Write misses: 38942
+Misses: 143512
+Writebacks: 48515
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.282815
+Average access time (AAT): 30.281515
+-----------------------------
+Cache Settings
+C: 12
+B: 5
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 117334
+Writes: 205389
+Write misses: 48575
+Misses: 165909
+Writebacks: 57256
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.326952
+Average access time (AAT): 34.695230
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 41105
+Writes: 205389
+Write misses: 20350
+Misses: 61455
+Writebacks: 29893
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.121108
+Average access time (AAT): 14.110768
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 36858
+Writes: 205389
+Write misses: 14538
+Misses: 51396
+Writebacks: 21238
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.101285
+Average access time (AAT): 12.128468
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 37580
+Writes: 205389
+Write misses: 14003
+Misses: 51583
+Writebacks: 20167
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.101653
+Average access time (AAT): 12.165320
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 43035
+Writes: 205389
+Write misses: 14537
+Misses: 57572
+Writebacks: 21719
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.113456
+Average access time (AAT): 13.345555
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 48350
+Writes: 205389
+Write misses: 16523
+Misses: 64873
+Writebacks: 24348
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.127843
+Average access time (AAT): 14.784343
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 52543
+Writes: 205389
+Write misses: 18973
+Misses: 71516
+Writebacks: 26549
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.140935
+Average access time (AAT): 16.093461
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 58910
+Writes: 205389
+Write misses: 22463
+Misses: 81373
+Writebacks: 29588
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.160360
+Average access time (AAT): 18.035953
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 70498
+Writes: 205389
+Write misses: 28100
+Misses: 98598
+Writebacks: 35937
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.194304
+Average access time (AAT): 21.430436
+-----------------------------
+Cache Settings
+C: 13
+B: 5
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 81766
+Writes: 205389
+Write misses: 35812
+Misses: 117578
+Writebacks: 43063
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.231708
+Average access time (AAT): 25.170773
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 29417
+Writes: 205389
+Write misses: 15378
+Misses: 44795
+Writebacks: 21785
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.088276
+Average access time (AAT): 10.827627
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27787
+Writes: 205389
+Write misses: 12173
+Misses: 39960
+Writebacks: 16762
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.078748
+Average access time (AAT): 9.874807
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 25323
+Writes: 205389
+Write misses: 10508
+Misses: 35831
+Writebacks: 13687
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.070611
+Average access time (AAT): 9.061116
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27009
+Writes: 205389
+Write misses: 10086
+Misses: 37095
+Writebacks: 13225
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.073102
+Average access time (AAT): 9.310209
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28995
+Writes: 205389
+Write misses: 10443
+Misses: 39438
+Writebacks: 13992
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.077719
+Average access time (AAT): 9.771938
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 30487
+Writes: 205389
+Write misses: 10570
+Misses: 41057
+Writebacks: 14229
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.080910
+Average access time (AAT): 10.090990
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 32823
+Writes: 205389
+Write misses: 11161
+Misses: 43984
+Writebacks: 14859
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.086678
+Average access time (AAT): 10.667806
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 36442
+Writes: 205389
+Write misses: 12548
+Misses: 48990
+Writebacks: 16121
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.096543
+Average access time (AAT): 11.654324
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 44770
+Writes: 205389
+Write misses: 14789
+Misses: 59559
+Writebacks: 19475
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.117371
+Average access time (AAT): 13.737128
+-----------------------------
+Cache Settings
+C: 14
+B: 5
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 53509
+Writes: 205389
+Write misses: 18030
+Misses: 71539
+Writebacks: 23323
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.140980
+Average access time (AAT): 16.097994
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 22578
+Writes: 205389
+Write misses: 12389
+Misses: 34967
+Writebacks: 16825
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.068909
+Average access time (AAT): 8.890850
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18634
+Writes: 205389
+Write misses: 9163
+Misses: 27797
+Writebacks: 11537
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.054779
+Average access time (AAT): 7.477878
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17444
+Writes: 205389
+Write misses: 7710
+Misses: 25154
+Writebacks: 9117
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.049570
+Average access time (AAT): 6.957029
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15701
+Writes: 205389
+Write misses: 6237
+Misses: 21938
+Writebacks: 7192
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.043233
+Average access time (AAT): 6.323261
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15753
+Writes: 205389
+Write misses: 5266
+Misses: 21019
+Writebacks: 6133
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.041422
+Average access time (AAT): 6.142156
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16729
+Writes: 205389
+Write misses: 5115
+Misses: 21844
+Writebacks: 5929
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.043047
+Average access time (AAT): 6.304737
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17949
+Writes: 205389
+Write misses: 5007
+Misses: 22956
+Writebacks: 5689
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.045239
+Average access time (AAT): 6.523876
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 18851
+Writes: 205389
+Write misses: 4968
+Misses: 23819
+Writebacks: 5670
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.046939
+Average access time (AAT): 6.693945
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 20044
+Writes: 205389
+Write misses: 5318
+Misses: 25362
+Writebacks: 6009
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.049980
+Average access time (AAT): 6.998019
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21262
+Writes: 205389
+Write misses: 5719
+Misses: 26981
+Writebacks: 6276
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.053171
+Average access time (AAT): 7.317071
+-----------------------------
+Cache Settings
+C: 15
+B: 5
+S: 10
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 23820
+Writes: 205389
+Write misses: 6878
+Misses: 30698
+Writebacks: 7310
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.060496
+Average access time (AAT): 8.049570
+-----------------------------
+Cache Settings
+C: 6
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 211275
+Writes: 205389
+Write misses: 103713
+Misses: 314988
+Writebacks: 121807
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.620738
+Average access time (AAT): 64.073817
+-----------------------------
+Cache Settings
+C: 7
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 186838
+Writes: 205389
+Write misses: 78490
+Misses: 265328
+Writebacks: 101205
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.522875
+Average access time (AAT): 54.287458
+-----------------------------
+Cache Settings
+C: 7
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 209498
+Writes: 205389
+Write misses: 100926
+Misses: 310424
+Writebacks: 118979
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.611744
+Average access time (AAT): 63.174403
+-----------------------------
+Cache Settings
+C: 8
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 160570
+Writes: 205389
+Write misses: 62813
+Misses: 223383
+Writebacks: 88499
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.440215
+Average access time (AAT): 46.021472
+-----------------------------
+Cache Settings
+C: 8
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 183704
+Writes: 205389
+Write misses: 75137
+Misses: 258841
+Writebacks: 97706
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.510091
+Average access time (AAT): 53.009083
+-----------------------------
+Cache Settings
+C: 8
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 207641
+Writes: 205389
+Write misses: 98275
+Misses: 305916
+Writebacks: 116250
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.602860
+Average access time (AAT): 62.286023
+-----------------------------
+Cache Settings
+C: 9
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 132278
+Writes: 205389
+Write misses: 49094
+Misses: 181372
+Writebacks: 75405
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.357425
+Average access time (AAT): 37.742480
+-----------------------------
+Cache Settings
+C: 9
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 151053
+Writes: 205389
+Write misses: 55896
+Misses: 206949
+Writebacks: 79648
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.407829
+Average access time (AAT): 42.782869
+-----------------------------
+Cache Settings
+C: 9
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 176491
+Writes: 205389
+Write misses: 70527
+Misses: 247018
+Writebacks: 92260
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.486792
+Average access time (AAT): 50.679157
+-----------------------------
+Cache Settings
+C: 9
+B: 6
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 194289
+Writes: 205389
+Write misses: 84924
+Misses: 279213
+Writebacks: 102303
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.550237
+Average access time (AAT): 57.023737
+-----------------------------
+Cache Settings
+C: 10
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 104948
+Writes: 205389
+Write misses: 37850
+Misses: 142798
+Writebacks: 61079
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.281408
+Average access time (AAT): 30.140808
+-----------------------------
+Cache Settings
+C: 10
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 119315
+Writes: 205389
+Write misses: 39074
+Misses: 158389
+Writebacks: 61244
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.312133
+Average access time (AAT): 33.213284
+-----------------------------
+Cache Settings
+C: 10
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 138572
+Writes: 205389
+Write misses: 45942
+Misses: 184514
+Writebacks: 66861
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.363617
+Average access time (AAT): 38.361666
+-----------------------------
+Cache Settings
+C: 10
+B: 6
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 158377
+Writes: 205389
+Write misses: 54451
+Misses: 212828
+Writebacks: 74621
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.419414
+Average access time (AAT): 43.941428
+-----------------------------
+Cache Settings
+C: 10
+B: 6
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 175647
+Writes: 205389
+Write misses: 66058
+Misses: 241705
+Writebacks: 82725
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.476321
+Average access time (AAT): 49.632139
+-----------------------------
+Cache Settings
+C: 11
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 77593
+Writes: 205389
+Write misses: 25836
+Misses: 103429
+Writebacks: 45665
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.203825
+Average access time (AAT): 22.382468
+-----------------------------
+Cache Settings
+C: 11
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 88780
+Writes: 205389
+Write misses: 27357
+Misses: 116137
+Writebacks: 43812
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.228868
+Average access time (AAT): 24.886799
+-----------------------------
+Cache Settings
+C: 11
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 103638
+Writes: 205389
+Write misses: 29145
+Misses: 132783
+Writebacks: 46824
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.261672
+Average access time (AAT): 28.167180
+-----------------------------
+Cache Settings
+C: 11
+B: 6
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 116485
+Writes: 205389
+Write misses: 34670
+Misses: 151155
+Writebacks: 50427
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.297877
+Average access time (AAT): 31.787699
+-----------------------------
+Cache Settings
+C: 11
+B: 6
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 132683
+Writes: 205389
+Write misses: 42389
+Misses: 175072
+Writebacks: 55819
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.345010
+Average access time (AAT): 36.500957
+-----------------------------
+Cache Settings
+C: 11
+B: 6
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 153483
+Writes: 205389
+Write misses: 55092
+Misses: 208575
+Writebacks: 66096
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.411033
+Average access time (AAT): 43.103301
+-----------------------------
+Cache Settings
+C: 12
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 57317
+Writes: 205389
+Write misses: 20291
+Misses: 77608
+Writebacks: 34872
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.152940
+Average access time (AAT): 17.293995
+-----------------------------
+Cache Settings
+C: 12
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 63031
+Writes: 205389
+Write misses: 16933
+Misses: 79964
+Writebacks: 30755
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.157583
+Average access time (AAT): 17.758285
+-----------------------------
+Cache Settings
+C: 12
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 75319
+Writes: 205389
+Write misses: 20487
+Misses: 95806
+Writebacks: 34220
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.188802
+Average access time (AAT): 20.880224
+-----------------------------
+Cache Settings
+C: 12
+B: 6
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 81845
+Writes: 205389
+Write misses: 21712
+Misses: 103557
+Writebacks: 33444
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.204077
+Average access time (AAT): 22.407693
+-----------------------------
+Cache Settings
+C: 12
+B: 6
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 92149
+Writes: 205389
+Write misses: 27157
+Misses: 119306
+Writebacks: 38726
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.235113
+Average access time (AAT): 25.511305
+-----------------------------
+Cache Settings
+C: 12
+B: 6
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 109250
+Writes: 205389
+Write misses: 35935
+Misses: 145185
+Writebacks: 46946
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.286112
+Average access time (AAT): 30.611208
+-----------------------------
+Cache Settings
+C: 12
+B: 6
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 122453
+Writes: 205389
+Write misses: 43043
+Misses: 165496
+Writebacks: 52471
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.326138
+Average access time (AAT): 34.613841
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 42764
+Writes: 205389
+Write misses: 16286
+Misses: 59050
+Writebacks: 26877
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.116368
+Average access time (AAT): 13.636821
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 39241
+Writes: 205389
+Write misses: 12413
+Misses: 51654
+Writebacks: 19999
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.101793
+Average access time (AAT): 12.179311
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 44481
+Writes: 205389
+Write misses: 13022
+Misses: 57503
+Writebacks: 20832
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.113320
+Average access time (AAT): 13.331958
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 51699
+Writes: 205389
+Write misses: 14110
+Misses: 65809
+Writebacks: 22067
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.129688
+Average access time (AAT): 14.968798
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 57253
+Writes: 205389
+Write misses: 16329
+Misses: 73582
+Writebacks: 24415
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.145006
+Average access time (AAT): 16.500602
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 65184
+Writes: 205389
+Write misses: 19525
+Misses: 84709
+Writebacks: 28059
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.166934
+Average access time (AAT): 18.693369
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 76849
+Writes: 205389
+Write misses: 24034
+Misses: 100883
+Writebacks: 32388
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.198807
+Average access time (AAT): 21.880735
+-----------------------------
+Cache Settings
+C: 13
+B: 6
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 95051
+Writes: 205389
+Write misses: 34909
+Misses: 129960
+Writebacks: 42894
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.256109
+Average access time (AAT): 27.610859
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28817
+Writes: 205389
+Write misses: 11611
+Misses: 40428
+Writebacks: 18583
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.079670
+Average access time (AAT): 9.967035
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 27944
+Writes: 205389
+Write misses: 9463
+Misses: 37407
+Writebacks: 14589
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.073717
+Average access time (AAT): 9.371694
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 25712
+Writes: 205389
+Write misses: 8641
+Misses: 34353
+Writebacks: 12475
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.067699
+Average access time (AAT): 8.769851
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 28755
+Writes: 205389
+Write misses: 8521
+Misses: 37276
+Writebacks: 12491
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.073459
+Average access time (AAT): 9.345879
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 32127
+Writes: 205389
+Write misses: 9070
+Misses: 41197
+Writebacks: 13460
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.081186
+Average access time (AAT): 10.118579
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 35340
+Writes: 205389
+Write misses: 9910
+Misses: 45250
+Writebacks: 13995
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.089173
+Average access time (AAT): 10.917293
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 40058
+Writes: 205389
+Write misses: 10827
+Misses: 50885
+Writebacks: 15349
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.100278
+Average access time (AAT): 12.027767
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 48697
+Writes: 205389
+Write misses: 14787
+Misses: 63484
+Writebacks: 20447
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.125106
+Average access time (AAT): 14.510617
+-----------------------------
+Cache Settings
+C: 14
+B: 6
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 56185
+Writes: 205389
+Write misses: 17995
+Misses: 74180
+Writebacks: 23970
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.146184
+Average access time (AAT): 16.618448
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 0
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21796
+Writes: 205389
+Write misses: 9280
+Misses: 31076
+Writebacks: 14263
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.061241
+Average access time (AAT): 8.124062
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17780
+Writes: 205389
+Write misses: 6692
+Misses: 24472
+Writebacks: 9401
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.048226
+Average access time (AAT): 6.822630
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 2
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17602
+Writes: 205389
+Write misses: 6024
+Misses: 23626
+Writebacks: 8089
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.046559
+Average access time (AAT): 6.655911
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 15323
+Writes: 205389
+Write misses: 4086
+Misses: 19409
+Writebacks: 5420
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.038249
+Average access time (AAT): 5.824878
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 4
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 16474
+Writes: 205389
+Write misses: 3856
+Misses: 20330
+Writebacks: 5099
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.040064
+Average access time (AAT): 6.006377
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 5
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 17949
+Writes: 205389
+Write misses: 3820
+Misses: 21769
+Writebacks: 5148
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.042900
+Average access time (AAT): 6.289957
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 6
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 19740
+Writes: 205389
+Write misses: 3476
+Misses: 23216
+Writebacks: 4767
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.045751
+Average access time (AAT): 6.575113
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 7
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 21189
+Writes: 205389
+Write misses: 4048
+Misses: 25237
+Writebacks: 5447
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.049734
+Average access time (AAT): 6.973386
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 8
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 23229
+Writes: 205389
+Write misses: 4430
+Misses: 27659
+Writebacks: 5670
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.054507
+Average access time (AAT): 7.450683
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 9
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 26564
+Writes: 205389
+Write misses: 5955
+Misses: 32519
+Writebacks: 7517
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.064084
+Average access time (AAT): 8.408430
+The best average access time for . is 4.322043
+The optimal size for C is , B is , S is 

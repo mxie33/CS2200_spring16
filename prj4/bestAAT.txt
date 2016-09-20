@@ -1,0 +1,57 @@
+1.astar.trace
+The  best AAT stats:
+Cache Settings
+C: 15
+B: 6
+S: 1
+
+Cache Statistics
+Accesses: 501468
+Reads: 289766
+Read misses: 9137
+Writes: 211702
+Write misses: 20101
+Misses: 29238
+Writebacks: 20283
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.058305
+Average access time (AAT): 7.830482
+
+2.bzip2.trace
+Cache Settings
+C: 15
+B: 6
+S: 6
+
+Cache Statistics
+Accesses: 544514
+Reads: 369344
+Read misses: 436
+Writes: 175170
+Write misses: 410
+Misses: 846
+Writebacks: 0
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.001554
+Average access time (AAT): 2.155368
+-----------------------------
+Cache Settings
+C: 15
+B: 6
+S: 7
+
+Cache Statistics
+Accesses: 544514
+Reads: 369344
+Read misses: 436
+Writes: 175170
+Write misses: 410
+Misses: 846
+Writebacks: 0
+Access Time: 2
+Miss Penalty: 100
+Miss rate: 0.001554
+Average access time (AAT): 2.155368
+

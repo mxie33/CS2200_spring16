@@ -1,0 +1,81 @@
+CS 2200 Spring 2016
+Project 5
+Name:Mingjun Xie
+GT Number:903074907
+
+Problem 1B
+----------
+
+./os-sim 1 (cpu = 1)
+# of Context Switches: 99
+Total execution time: 67.6 s
+Total time spent in READY state: 389.9 s
+
+./os-sim 2 (cpu = 2)
+# of Context Switches: 106
+Total execution time: 36.5 s
+Total time spent in READY state: 87.9 s
+
+./os-sim 4 (cpu = 4)
+# of Context Switches: 184
+Total execution time: 33.1 s
+Total time spent in READY state: 0.8 s
+
+The number of CPUs has a negative relation with total execution time, but it's not a linear relationship, because when cpu increase from 1 to 2, there's a over 30s decrease in execution time, while for the increase from 2 to 4, there's only about 3s decrease in execution time. When you increase the number of cpu from 2 to 4, we can see that some of the cpus in those 4 are idel. We can see that keep increasing the number of cpu will not always be efficient.
+
+
+Problem 2B
+----------
+800ms
+# of Context Switches: 136
+Total execution time: 67.6 s
+Total time spent in READY state: 325.4 s
+
+600ms
+# of Context Switches: 161
+Total execution time: 67.6 s
+Total time spent in READY state: 314.5 s
+
+400ms
+# of Context Switches: 202
+Total execution time: 67.6 s
+Total time spent in READY state: 299.0 s
+
+# of Context Switches: 362
+Total execution time: 67.5 s
+Total time spent in READY state: 285.2 
+
+Because in real life, there will be a huge amount of context switches which will waste a lot of time and cause inefficiency.
+
+Problem 3B
+----------
+fifo 1cpu
+# of Context Switches: 99
+Total execution time: 67.6 s
+Total time spent in READY state: 389.9 s
+
+rr 1cpu with quantum = 500ms
+# of Context Switches: 175
+Total execution time: 67.7 s
+Total time spent in READY state: 301.8 s
+
+sp 1cpu
+# of Context Switches: 168
+Total execution time: 68.8 s
+Total time spent in READY state: 137.1 s
+
+sp has the optimal waiting time, so static priority is the cloest approximation of SJF.
+We can explain that in SFJ, 1/(excution time) can be viewed as a priority.s
+
+
+
+
+
+
+
+
+
+
+
+
+
