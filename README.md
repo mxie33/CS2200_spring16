@@ -3,7 +3,7 @@ CS2200_spring16
 Micro-Project1:
 --------
 0.fibonacci using recursion in MIPS Assembly language in LC-2200
-0.test.s for the testing fibonacci.s\\
+0.test.s for the testing fibonacci.s
 Project 1:
 ----------
 0.Build a 16 bit LC-2200 processor in non-pipeline architechture and test it using fib.s in microproject1
