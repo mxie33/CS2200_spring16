@@ -16,12 +16,12 @@ CS2200_spring16
 ###Project 2:
 
 - Build a 32 bit LC-2200 processor in pipeline architechture and test it using test code
-- Grade:90/100 (It was 100/100, but 10 points off for late submission)
+- Grade: 90/100 (It was 100/100, but 10 points off for late submission)
 
 ###Micro-Project2:
 
 - Run programs using gdb
 - Use gdb's instruction to debug for programs in C
-- Grade:100/100
+- Grade: 100/100
 
 
