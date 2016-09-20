@@ -1,22 +1,23 @@
 CS2200_spring16
 ================
-Micro-Project1:
----------------------------------
-0. fibonacci using recursion in MIPS Assembly language in LC-2200
-1. test.s for the testing fibonacci.s
 
-Project 1:
----------------------------------
-0. Build a 16 bit LC-2200 processor in non-pipeline architechture and test it using fib.s in microproject1
-1. Implmented Microcode for the main ROM to control the sequence of the microstates for a specific instruction
+###Micro-Project1:
 
-Project 2:
----------------------------------
-0. Build a 32 bit LC-2200 processor in pipeline architechture and test it using test code
+- Code fibonacci using recursion in MIPS Assembly language in LC-2200
+- Write test.s for the testing fibonacci.s
 
-Micro-Project2:
----------------------------------
-0. Run programs using gdb
-1. Use gdb's instruction to debug for programs in C
+###Project 1:
+
+- Build a 16 bit LC-2200 processor in non-pipeline architechture and test it using fib.s in microproject1
+- Implmented Microcode for the main ROM to control the sequence of the microstates for a specific instruction
+
+###Project 2:
+
+- Build a 32 bit LC-2200 processor in pipeline architechture and test it using test code
+
+###Micro-Project2:
+
+- Run programs using gdb
+- Use gdb's instruction to debug for programs in C
 
 
