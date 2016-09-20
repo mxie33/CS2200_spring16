@@ -1,0 +1,22 @@
+Part 1
+
+1. -g option enables built in debugging support(which GDB needs)
+[  390.426483] gdb_example1[2954]: segfault at 0 ip 0000000000400543 sp 00007fffcadd8df0 error 4 in gdb_example1[400000+1000].Not really, because we only know the address of the stack point right before the seg fault happen.
+2.0x0 is the value of the 'char*' argument that was passed last into the print_scrambled() function. I guess the valule of the message caused the segmentation fault.
+3.$sp:0x7fffffffdea0.$fp:0x7fffffffded0.arglist:0x7fffffffdec0
+---------------------------------------------------------------------------
+Part 2
+
+4.in void setint(int* ip, int i) a seg fault occured. At line8. The caller is main().$pc = 0x40068f
+5. memset () at ../sysdeps/x86_64/rtld-memset.S. I break right before the write_message() and step into the write_message() function, use the breakpoint to break at memset, and run till it reaches memset, and it will show the link to the memeset.
+6.(gdb) x/5i 0x7ffff7aa15c0.
+=> 0x7ffff7aa15c0 <memset>:	movd   %esi,%xmm8
+   0x7ffff7aa15c5 <memset+5>:	mov    %rdi,%rax
+   0x7ffff7aa15c8 <memset+8>:	punpcklbw %xmm8,%xmm8
+   0x7ffff7aa15cd <memset+13>:	punpcklwd %xmm8,%xmm8
+   0x7ffff7aa15d2 <memset+18>:	pshufd $0x0,%xmm8,%xmm8
+The five instruction above are the answers.
+The memset() use a user stack because when I run main the $sp is at  0x7fffffffde90 and when I run into memset, I found that the $sp is at 0x7fffffffdd38 which is near the main stack. Thus I concluded that they are sharing the user stack.
+7. This is because buffer size is smaller than the actual size that memset needed. Then this will smash the stack and corrupt other contents besides the assigned memory.
+
+

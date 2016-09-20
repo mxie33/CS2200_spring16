@@ -1,0 +1,26 @@
+Mingjun Xie
+GTid:903074907
+
+Question 1
+
+a) List all uses for each registers
+
+Register 0: the register is always zero and cannot be overwrite.
+Register 1: the register is reserved for the assembler and we only use it temporarily for loading address because the assembler will use it in processing pseudo-instructions.
+Register 2: the register is used for return value
+Register 3 - 5: These registers are used for arguments
+Register 6 - 8: These registers are used for temporary variables.
+Register 9 - 11: These registers are saved registers, so that these registers are never tampered with by the subroutine.
+Register 12: This register is used to handle interrupts.
+Register 13: This is the pointer for the stack and keeps track for the subroutine.
+Register 14: This is used to pointed to the frame pointer.
+Register 15: This is use to save the return address.
+
+b) Define the way stack is accessed, the use of the stack pointer, the way stack grow in terms of memory addresses.
+
+I use the stack pointer to load the address of the stack and make the stack pointer point to the top of the stack. The stack will move into the direction of smaller values addresses.
+
+c) The calling convention
+The caller with first load the stack pointer and then move upward the stack pointer to yield three spaces for the argument, return value and return address. Then store the addresses into return address. Then move upward the stack pointer to yield 2 spaces for old frame pointer and new frame pointer. Then save the old frame pointer address. Then temperary variables are stored on top of the old frame pointer.
+At the end of the callee, store the calculated answer in to the return value, then move the stack pointer point to the return value, then reload the return address. And then reload the new frame pointer into the  old frame pointer.
+Then save the answer.

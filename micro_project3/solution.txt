@@ -1,0 +1,99 @@
+main: nconsumers = 4
+
+  consumer 0: starting
+
+  consumer 1: starting
+
+  consumer 2: starting
+
+  consumer 3: starting
+
+  producer: starting
+
+producer: 1
+
+producer: 2
+
+producer: 3
+
+producer: 4
+
+producer: 5
+
+producer: 6
+
+producer: 7
+
+producer: 8
+
+producer: 9
+
+producer: 10
+
+producer: 9
+
+producer: 8
+
+producer: 7
+
+producer: 6
+
+  consumer 0: 1
+
+producer: 5
+
+  consumer 1: 2
+
+producer: 4
+
+  consumer 2: 3
+
+producer: 3
+
+  consumer 3: 4
+
+producer: 2
+
+  consumer 0: 5
+
+producer: 1
+
+  consumer 1: 6
+
+producer: read EOF, sending 4 '-1' numbers
+
+  consumer 2: 7
+
+  consumer 3: 8
+
+  consumer 0: 9
+
+  consumer 1: 10
+
+producer: exiting
+
+  consumer 2: 9
+
+  consumer 3: 8
+
+  consumer 0: 7
+
+  consumer 1: 6
+
+  consumer 2: 5
+
+  consumer 3: 4
+
+  consumer 3: exiting
+
+  consumer 0: 3
+
+  consumer 0: exiting
+
+  consumer 2: 1
+
+  consumer 2: exiting
+
+  consumer 1: 2
+
+  consumer 1: exiting

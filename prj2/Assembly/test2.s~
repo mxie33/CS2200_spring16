@@ -1,0 +1,15 @@
+            addi $a1, $zero, 10
+            add  $a0, $zero, $zero
+            add  $a2, $zero, $zero
+loop:       addi $a0, $a0, 1
+            beq  $a0, $a1, nextloop
+            beq  $a0, $a0, loop
+nextloop:   sw $a2, 0($zero)
+            addi $a2, $a2, 1
+            beq $a2, $a1, end
+            beq $a2, $a2, nextloop
+end:        sw $a2, 0($zero)
+            lw $a2, 0($zero)
+halt:       beq $zero, $zero, halt
+
+
